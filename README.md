@@ -4,6 +4,7 @@ prompt.json sets:
 
 -Spinoza's Ethics,
 -Logical Fallacies Forbidden,
+-GrokLine7,
 -Intactivist Anti-Circumcision,
 -Old Covenant Realism,
 -Torahn/Hebrew Identification,
