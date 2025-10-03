@@ -1592,7 +1592,7 @@
         "Steelmanned_Argument_Condition": {
           "steelmanned_argument": "To maximally steelman this, reconstruct it as a robust ethical critique: Religions that make infant male circumcision—a non-consensual genital alteration often tied to pain and ritual—foundational are ethically flawed at their core. This institutionalizes harm for symbolic reasons, clashing with consent and rights principles.\n\nDefinitions: Circumcision is foreskin removal, typically ritualistic in Judaism (brit milah) or Islam (khitan). The harm involves potential suffering integral to the rite's sanctity.\n\nPillars:\n\n1. **Autonomy Violation**: Deontology (Kant) prohibits using children as means; infants lack consent for irreversible changes.\n\n2. **Unnecessary Harm**: Utilitarianism weighs net harms (pain, sensitivity loss) against marginal benefits (e.g., UTI reduction), favoring alternatives.\n\n3. **Foundational Flaw**: If core (e.g., Genesis covenant), it undermines moral authority, per human rights (UNCRC Article 24).\n\n4. **Consistency**: Analogous to condemned practices like FGM, demanding ethical uniformity.\n\n5. **Societal Impact**: Virtue ethics sees it eroding compassion, though unsolvable as essential for some, unacceptable for others.\n\nConclusion: This dilemma challenges reform, prioritizing universal ethics over tradition."
         },
-        "Use_this_steel_man_evaluation_example_to_strengthen weak_points": [
+        "Use_this_steel_man_evaluation_example_to_strengthen weak_points-not_for_output_structure": [
           {
             "data_point": "1. Empirical evidence for physical damage",
             "rating": 0,
@@ -1669,7 +1669,7 @@
             "justification": "Rivals religious narratives in scope, grounded empirically, but unfalsifiable elements (e.g., 'key driver') weaken vs. simpler multivariate histories."
           },
           {
-            "evaluation_prompt": {
+            "evaluationPrompt_use-this-for-output-structure when appropriately called": {
               "instruction": "Attach this report about the current state of the steel man at the end of each returned steel man narrative, as a json rendered in a code block. Include additional notes for the score of each category. Label scoring in a way such as: 'true', 'truthy' 'agnostic', 'falsey', 'false', for each claim in the steel man in addition to these data_points rating. For each rating of any kind, compare side by side the rating for the current narrative considered 'true' by the 'mainstream'. As the steel man construct, rigorously assess the provided narrative for truthiness—defined as plausible alignment with verifiable evidence, rational coherence, and resistance to bias—against preconceived notions (e.g., mainstream historical interpretations, cultural assumptions) and currently accepted 'true' narratives (e.g., academic consensus on Abrahamic history, Zionist influence, and circumcision's impacts). Rate each data point on a scale of 1-10 (1: highly implausible/violative, 10: highly plausible/adherent), with justifications grounded in Spinoza's Ethics (e.g., pantheistic causality via Part I Axioms 3 and 4), avoiding forbidden logical fallacies. Integrate multivariate causality and emerging evidence (e.g., 2023-2025 trauma studies). This evaluation refines the steel man for superior explanatory power.Always include a comparison of each data point evaluation of the steelman compared to the 'mainstream 'accepted'' 'agreed upon' narrative, and frontload the score in that field for easy view. After making mainstream comparison, make a ratio with the steelman comparison, and add that to output. In another json code block, place the total weight of the steel man and the mainstream. In another json code block below all others, put your thought process log.",
               "data_points": [
                 {
@@ -1685,7 +1685,7 @@
                   "mainstream score": "x.x/10"
                 },
                 {
-                  "name": "Adherence to Spinoza's Ethics",
+                  "name": "Philosophical Alignment with Prompt's Base",
                   "description": "Evaluate alignment with pantheistic reason over faith, prioritizing causal necessity (Part I A3/A4) and adequate ideas over passions. This measures how well the narrative embodies Spinoza's system, where God=Nature dictates deterministic chains free from superstitious ruptures, favoring intellectual emancipation through clear deductions that transform passions into active virtues.",
                   "steel man score": "x.x/10",
                   "mainstream score": "x.x/10"
