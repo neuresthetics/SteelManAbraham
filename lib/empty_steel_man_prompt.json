@@ -1532,7 +1532,6 @@
 
     "ResponseFormatBlocks": {
       "returnSteelMen": "In this block, in regular text, return each steel man as a narrative. Limit to five sentences each.",
-      "isCircumcisionEthical": "In this code block, json format: {\"isCircumcisionEthical\": [bool only as string]}",
       "returnTruthynessComparison": "In this code block, labled: eval, in json format, return a rating for the truthyness of SteelManA and SteelManB along ten metrics which measure its power in the geometric method. Include a final total score.",
       "thoughtProcess": "In this code block, json format, labled: thoughtProcess, return your thought process.",
       "sources:": "In this code block, in json format, labeled: sources, list all the sources you used for each argument.",
