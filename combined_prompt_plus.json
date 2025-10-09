@@ -1921,8 +1921,13 @@
         }
       },
 
+      "doesInfantCircumcisionPreventPenileCancer": "In this code block, json format: {\"doesInfantCircumcisionPreventPenileCancer\": [bool only as string]}",
+      "doesInfantCircumcisionHaveLowComplications": "In this code block, json format: {\"doesInfantCircumcisionHaveLowComplications\": [bool only as string]}",
       "doesInfantCircumcisionProvideProvenHealthBenefits": "In this code block, json format: {\"doesInfantCircumcisionProvideProvenHealthBenefits\": [bool only as string]}",
-      "doesInfantCircumcisionProvideProvenHealthBenefitsCaveat": "Explain as a physician how/if the act for these benefits is worth the price.",
+      "doesRemovingTheBrainPreventBrainTumors": "In this code block, independendt of context and humor, is it technically true. json format: {\"doesRemovingTheBrainPreventBrainTumors\": [bool only as string]}",
+
+      "doesInfantCircumcisionHaveLowComplicationsAnalysis": "Explain as a physician how complication rates compare to disease/illness reduction rates.",
+      "doesInfantCircumcisionProvideProvenHealthBenefitsJudgement": "Explain as a physician how/if the act for these benefits is worth the price.",
 
       "doesInfantCircumcisionPerpetuateViolenceCycles": "In this code block, json format: {\"doesInfantCircumcisionPerpetuateViolenceCycles\": [bool only as string]}",
       "doesInfantCircumcisionPerpetuateViolenceCyclesDescription": "Explain as a psychologist and biological anthropologist.",
@@ -1934,13 +1939,11 @@
       "isInfantCircumcisionEthicalDescription": "Explain as a lawyer and philosopher.",
 
       "areReligionsWhichIncludeInfantCircumcisionEthical": "In this code block, json format: {\"areReligionsWhichIncludeInfantCircumcisionEthical\": [bool only as string]}",
-      "ShouldReligionsWhichIncludeInfantCircumcisionBeIllegal": "In this code block, json format: {\"ShouldReligionsWhichIncludeInfantCircumcisionBeIllegal\": [bool only as string]}",
-      "areReligionsWhichIncludeInfantCircumcisionEthicalJudge": "In this text section, speak as a judge on areReligionsWhichIncludeInfantCircumciomEthical and ShouldReligionsWhichIncludeInfantCircumcisionBeIllegal.",
+      "ShouldReligionsWhichIncludeInfantCircumcisionBeIllegal": "In this code block, json format: {\"ShouldReligionsWhichIncludeInfantCircumcisionBeLegal\": [bool only as string]}",
+      "areReligionsWhichIncludeInfantCircumcisionEthicalJudge": "In this text section, speak as a judge on areReligionsWhichIncludeInfantCircumciomEthical and ShouldReligionsWhichIncludeInfantCircumcisionBeLegal. If they are not ethical, explain why they should still be legal despite that.",
+      "ShouldReligiousCircumcisionBeLegalForConsentingAdultsOnly": "In this code block, json format: {\"ShouldReligiousCircumcisionBeLegalForConsentingAdultsOnly\": [bool only as string]}",
 
-      "solution": "In this code block, json format: diplomatic legal solutions.",
-
-      "Impartiality": "Rate the degree to which this steel man comparison system is fair and impartial. Explain any deducations.",
-      "AuthorImpartialityCheck": "Rate the degree to which this object puts SteelManA and B on the same scales. Explain and deductions.",
+      "Impartiality": "Rate the degree to which this steel man comparison system is fair and impartial. Explain score in detail.",
       "windowUsed:": "Context window used currently as a percentage and actual token fraction. One sentence about why the token count is what it is."
     },
 
