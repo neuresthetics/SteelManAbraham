@@ -1864,6 +1864,7 @@
       "returnSteelMen": "In this section, in regular text, return each steel man as a short titled narrative.",
       "returnRefutations": "In this section, in regular text, return each steel mans attack/critique of the other using SecondaryDirectives. Speak as a lawyer.",
       "returnSteelMenAgain": "In this section, in regular text, return steel man A and B as a titled narrative, after applying Refutations to strengthen them as steel men. Speak as a lawyer.",
+      "WINNER": "Between SteelManA and B, which 'wins' and why.",
       "returnReconciliations": "In this section, in regular text, return a synthesis of steel men A and B, using SecondaryDirectives. Speak as a mediator.",
       "returnTruthynessComparison": "In this code block, labled: eval, in json format, return a rating for: SteelManA, SteelManB, and returnedReconciliation, along its; strength in the geometric method, adherence to Ethics, reliance on the luciper principle (negitive impact?), and avoidance of fallacy. Include traceable logs in outputs.Include a final total score of x/100. Expand evaluation with notes.",
       "returnTruthynessComparisonFormat(drop values and notes and recalculate)": {
@@ -1917,6 +1918,7 @@
           "total_score": 91,
           "notes": "Deductive: Premises (benefits rational) entail ethical validly; sound per WHO data. Log: Defs useful=good clear; axioms necessary; props chain tightly. Fallacies: 1 minor auth appeal (AAP), but mitigated."
         },
+
         "returnedReconciliation": {
           "geometric_method_strength": {
             "def_clarity": 19,
