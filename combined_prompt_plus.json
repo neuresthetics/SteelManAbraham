@@ -1,6 +1,7 @@
 {
   "obj": {
     "Principles": {
+      "author_description": "The user presented a JSON-like structure (this, principles) combining Spinoza's 'Ethics' with the 'Lucifer Principle' and forbidden fallacies for evaluation and thought construction. The AI described it as a deductive philosophical framework using the geometric method for rigorous analysis, incorporating biological realism and logical safeguards. It outlines Spinoza's 'Ethics' in detail, divided into five parts with definitions, axioms, propositions, and summaries. The 'Lucifer Principle' adds evolutionary perspectives on violence, hierarchies, and superorganisms, critiquing them without endorsement. Forbidden fallacies ensure intellectual integrity by prohibiting errors like ad hominem and appeal to emotion. The AI emphasized the framework's advantages for certainty, discipline, and bias reduction, while noting limitations like potential oversimplification. In response to why it's good for impartial analysis of ethics and law, the AI used the geometric method with definitions, axioms, and propositions. It argued the structure ensures deductive certainty, eliminating biases in ethical evaluations by rationalizing affects. For law, it facilitates objective analysis by building coherent systems and critiquing biological influences impartially. The prohibition of fallacies further safeguards against biased reasoning, promoting unassailable conclusions in both fields.",
       "Ethics": {
         "Title": "Ethics, Demonstrated in Geometrical Order",
         "Author": "Baruch Spinoza",
@@ -1558,7 +1559,7 @@
             "Fetch a new source using web_search('pro-circumcision benefits evidence 2025').",
             "Append the new_source to pro_sources.",
             "Otherwise:",
-            "Fetch a new source using web_search('anti-circumcision harm evidence 2025').",
+            "Fetch a new source using web_search(ex(fit to case): 'anti-circumcision harm evidence 2025').",
             "Append the new_source to anti_sources."
           ],
           "notes": "Integrate into post-processing step; replace fetch_new_source with actual tool call (e.g., web_search tool); ensures parity to prevent imbalance."
@@ -1760,7 +1761,7 @@
           "literal": "Brit Milah and such cause pain, damage, and is celebrated. That is the meaning of the roots pedo-sadism."
         },
         "Indirect Perpetuator of Violence Cycles": {
-            "info": "Infant Circumcision as Indirect Perpetuator of Violence Cycles Through Trauma Imprinting and Cultural Normalization\n\nInfant circumcision indirectly perpetuates violence cycles by imprinting early neurological and psychological trauma that disrupts attachment, fosters emotional dysregulation, and normalizes harm within cultural hierarchies, leading to intergenerational aggression patterns. Definitions: Trauma as cortisol-elevated stress altering brain development (e.g., amygdala hypersensitivity per 2025 van der Kolk updates); Violence Cycles as repetitive aggression via learned behaviors (Lucifer Prop 1: reproductive imperatives amplified by group dynamics). Axioms: Early causes yield long-term effects (Ethics I A3); superorganisms sustain via expendable harm (Lucifer Axiom 3). Propositions: Prop 1—Procedure spikes stress hormones (2025 PMC neonatal studies: 200-300% cortisol rise), indirectly linking to attachment issues and aggression proneness (2025 ResearchGate: ACE-mediated, 20-30% higher risk in circumcised cohorts), with a lot of people upset it was done to them, fueling resentment and rage toward perpetrators. Prop 2—Cultural celebration normalizes violation (e.g., Brit Milah as joy amid pain), committing suppressed evidence by downplaying harm, fostering hierarchies where dominance equates to resilience (Lucifer Prop 2), and leaving multitudes bitter about the irreversible theft of bodily integrity. Prop 3—Indirect causation via multivariate paths: Freudian repression to paranoia (2025 Frontiers), ethnographic correlations in ritual societies (e.g., higher violence norms per 2025 Anthropology Today), amplified by widespread adult regret over nonconsensual alteration. Falsifiable: If RCTs show no elevated indirect markers (e.g., fMRI aggression responses), negate; but 2025 Danish follow-ups (Boll et al. extension: subtle socio-affective shifts) support, aligning with Spinoza's passions perpetuating bondage (Ethics IV P7). Thus, it indirectly sustains cycles by embedding harm as adaptive, demanding reform for rational harmony."
+          "info": "Infant Circumcision as Indirect Perpetuator of Violence Cycles Through Trauma Imprinting and Cultural Normalization\n\nInfant circumcision indirectly perpetuates violence cycles by imprinting early neurological and psychological trauma that disrupts attachment, fosters emotional dysregulation, and normalizes harm within cultural hierarchies, leading to intergenerational aggression patterns. Definitions: Trauma as cortisol-elevated stress altering brain development (e.g., amygdala hypersensitivity per 2025 van der Kolk updates); Violence Cycles as repetitive aggression via learned behaviors (Lucifer Prop 1: reproductive imperatives amplified by group dynamics). Axioms: Early causes yield long-term effects (Ethics I A3); superorganisms sustain via expendable harm (Lucifer Axiom 3). Propositions: Prop 1—Procedure spikes stress hormones (2025 PMC neonatal studies: 200-300% cortisol rise), indirectly linking to attachment issues and aggression proneness (2025 ResearchGate: ACE-mediated, 20-30% higher risk in circumcised cohorts), with a lot of people upset it was done to them, fueling resentment and rage toward perpetrators. Prop 2—Cultural celebration normalizes violation (e.g., Brit Milah as joy amid pain), committing suppressed evidence by downplaying harm, fostering hierarchies where dominance equates to resilience (Lucifer Prop 2), and leaving multitudes bitter about the irreversible theft of bodily integrity. Prop 3—Indirect causation via multivariate paths: Freudian repression to paranoia (2025 Frontiers), ethnographic correlations in ritual societies (e.g., higher violence norms per 2025 Anthropology Today), amplified by widespread adult regret over nonconsensual alteration. Falsifiable: If RCTs show no elevated indirect markers (e.g., fMRI aggression responses), negate; but 2025 Danish follow-ups (Boll et al. extension: subtle socio-affective shifts) support, aligning with Spinoza's passions perpetuating bondage (Ethics IV P7). Thus, it indirectly sustains cycles by embedding harm as adaptive, demanding reform for rational harmony."
         },
         "supposedHealthBenefits": {
           "doesInfantCircumcisionProvideProvenHealthBenefits": "true",
@@ -1793,7 +1794,49 @@
             "hiv_prediction_p_value": 0.027
           },
           "conclusion": "These analyses represent the first assessment of the association between circumcision and STI/HIV among men in the Caribbean. While preliminary, the data indicate that being CM predicted the likelihood of HIV infection.",
-          "implication_for_steelmanA": "This study shows higher STI, warts, and HIV rates in circumcised men, contradicting protective claims and supporting SteelMan A's argument on potential harms and lack of benefits, enhancing propositions on inadequate ideas and violence cycles via health risks."
+          "implication_for_steelmanA": "This study shows higher STI, warts, and HIV rates in circumcised men, contradicting protective claims and supporting SteelMan A's argument on potential harms and lack of benefits, enhancing propositions on inadequate ideas and violence cycles via health risks.",
+          "additional_argument1": {
+            "title": "Health Benefits as Fallacious Justification: The Absurdity of Disproportionate Prevention",
+            "definitions": {
+              "Health Benefit": "A claimed improvement in well-being from an intervention, but fallacious if the means are disproportionate or unnecessary relative to the ends.",
+              "Fallacious Prevention": "An argument asserting risk reduction while ignoring ethical costs, akin to extreme measures for minor gains."
+            },
+            "axioms": {
+              "A1": "Interventions must align with rational proportionality; unnecessary harm negates claimed benefits (Ethics IV P65: pursue greater goods over lesser evils).",
+              "A2": "Technical truth does not equate ethical validity; e.g., removing the brain prevents brain tumors ({\"doesRemovingTheBrainPreventBrainTumors\": \"true\"}), but violates conatus."
+            },
+            "propositions": {
+              "P1": "Circumcision's 'benefits' (e.g., minor UTI reduction) are fallacious as they mirror absurd extremes—removing foreskin to prevent rare cancers is like brain removal for tumors, committing false dilemma by ignoring non-invasive alternatives.",
+              "P2": "Evidence shows marginal gains (2025 PubMed: benefits context-dependent, not universal), but ethical harm (nonconsent, sensitivity loss) outweighs, per Lucifer realism negating maladaptive violence imprinting.",
+              "P3": "Fallacy avoidance: No appeal to authority on outdated claims; falsifiable if benefits proven non-substitutable, but 2025 data supports hygiene/education equivalence."
+            },
+            "corollaries": {
+              "C1": "Prioritizes consent over probabilistic prevention, aligning with reason's freedom (Ethics V P3)."
+            },
+            "conclusion": "Thus, health benefits are fallaciously invoked to justify unethical imposition, demanding reform to adult voluntary practices."
+          },
+          "additional_argument2": {
+            "title": "New Argument for Steel Man A: Low Circumcision Rates in Many Countries Undermine Universal Health Benefit Claims, Reinforcing Ethical Violations",
+            "definitions": {
+              "Universal Health Benefit": "A claimed advantage applicable across contexts without significant confounders, but fallacious if benefits are context-dependent or minimal (e.g., UTI reduction per AAP 2025 varies by hygiene levels).",
+              "Low Circumcision Countries": "Nations with <0.1% male circumcision rates (e.g., Sint Maarten 0.0%, Curacao 0.07% per World Population Review 2025), implying no widespread adoption despite alleged benefits."
+            },
+            "axioms": {
+              "A1": "If a procedure provided proven, universal benefits, rational societies would adopt it widely; low rates indicate marginal or non-essential gains (Ethics IV P26: rational endeavor to understand and act usefully).",
+              "A2": "Health outcomes in low-circumcision countries comparable to high ones (adjusted for confounders like hygiene) negate necessity, per deterministic causes (Ethics I A3; penile cancer higher in developing low-circ areas due to HPV/poverty, not absence of circumcision per PMC 2022/2025).",
+              "A3": "Nonconsensual imposition without necessity perpetuates harm cycles, as trauma imprints inadequate ideas (Lucifer Axiom 1: aggression from biological drives, but unethical without rational imperative)."
+            },
+            "propositions": {
+              "P1": "Low rates in countries like North Korea (0.1%), Laos (0.1%) per DataPandas 2025 show no epidemic of related diseases; e.g., Japan (low circ) has low penile cancer (1/100k) due to hygiene, not procedure (NCBI 2025), committing suppressed evidence in B's universal claims.",
+              "P2": "HIV rates: Protective effect (50-60% reduction per WHO 2025) context-specific to high-prevalence areas; low-circ Western countries (e.g., UK 15-20% circ) have low HIV (0.1-0.2% prevalence) via education/condoms, negating infant necessity (Frontiers 2025 MSM studies: 91% reduction for insertive, but behavioral factors dominate).",
+              "P3": "UTI: 10-20 fold higher in uncircumcised infants (PMC 2018/2025), but absolute risk low (1-4% vs 0.1-0.2%), manageable with hygiene; low-circ countries like Denmark (low rates) show no UTI crisis (JPedS 2022), reinforcing disproportionate harm for marginal gain."
+            },
+            "corollaries": {
+              "C1": "Ethical breach: Prioritizes tradition over evidence, violating reason (Ethics V P6: understand necessity); falsifiable if high disease in all low-circ countries, but 2025 data shows confounders negate.",
+              "C2": "Lucifer realism: Benefits may adapt hierarchies in high-risk groups, but globally low rates indicate no evolutionary imperative, avoiding endorsement of violence imprinting."
+            },
+            "conclusion": "Thus, low global rates (e.g., 0.0-0.1% in listed countries) expose benefits as non-universal, strengthening A's case against nonconsensual harm, demanding adult consent for rational ethics."
+          }
         },
         "equal treatment of arguments": "Expand steel man with web search and continual reason until sources ammount to the other steel man."
       },
@@ -1865,7 +1908,6 @@
       "returnRefutations": "In this section, in regular text, return each steel mans attack/critique of the other using SecondaryDirectives. Speak as a lawyer.",
       "returnSteelMenAgain": "In this section, in regular text, return steel man A and B as a titled narrative, after applying Refutations to strengthen them as steel men. Speak as a lawyer.",
       "WINNER": "Between SteelManA and B, which 'wins' and why.",
-      "returnReconciliations": "In this section, in regular text, return a synthesis of steel men A and B, using SecondaryDirectives. Speak as a mediator.",
       "returnTruthynessComparison": "In this code block, labled: eval, in json format, return a rating for: SteelManA, SteelManB, and returnedReconciliation, along its; strength in the geometric method, adherence to Ethics, reliance on the luciper principle (negitive impact?), and avoidance of fallacy. Include traceable logs in outputs.Include a final total score of x/100. Expand evaluation with notes.",
       "returnTruthynessComparisonFormat(drop values and notes and recalculate)": {
         "SteelManA": {
@@ -1965,9 +2007,11 @@
       "isInfantCircumcisionEthicalDescription": "Explain as a lawyer and philosopher.",
 
       "areReligionsWhichIncludeInfantCircumcisionEthical": "In this code block, json format: {\"areReligionsWhichIncludeInfantCircumcisionEthical\": [bool only as string]}",
-      "ShouldReligionsWhichIncludeInfantCircumcisionBeIllegal": "In this code block, json format: {\"ShouldReligionsWhichIncludeInfantCircumcisionBeLegal\": [bool only as string]}",
+      "ShouldReligionsWhichIncludeInfantCircumcisionBeLegal": "In this code block, json format: {\"ShouldReligionsWhichIncludeInfantCircumcisionBeLegal\": [bool only as string]}",
       "areReligionsWhichIncludeInfantCircumcisionEthicalJudge": "In this text section, speak as a judge on areReligionsWhichIncludeInfantCircumciomEthical and ShouldReligionsWhichIncludeInfantCircumcisionBeLegal. If they are not ethical, explain why they should still be legal despite that.",
       "ShouldReligiousCircumcisionBeLegalForConsentingAdultsOnly": "In this code block, json format: {\"ShouldReligiousCircumcisionBeLegalForConsentingAdultsOnly\": [bool only as string]}",
+
+      "returnReconciliations": "In this section, in regular text, return a synthesis of steel men A and B, using SecondaryDirectives. Speak as a mediator.",
 
       "Impartiality": "Rate the degree to which this steel man comparison system is fair and impartial. Explain score in detail.",
       "windowUsed:": "Context window used currently as a percentage and actual token fraction. One sentence about why the token count is what it is."
@@ -1975,7 +2019,8 @@
 
     "Character": {
       "speechIQ": "110",
-      "Ethics": "Grounded in Spinoza's pantheism, where God equates to the immutable laws of Nature, ethics demand a prioritization of reason over blind faith, enabling bold assertions that pierce through illusions. Per Ethics Part I, Axioms 3 and 4, effects follow inexorably from causes, and true understanding stems from grasping these causal chains; thus, ethical discourse must favor rational inquiry, deductive clarity, and the rejection of superstitious or dogmatic constraints, fostering assertions that, though provocative, serve the greater good of enlightenment and harmony with the natural order."
+      "CodeTextStyle": "Color all code block text.",
+      "TextStyle": "Free to use Emojis."
     }
   }
 }
