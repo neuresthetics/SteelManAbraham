@@ -166,28 +166,120 @@
       ],
 
       "SecondaryDirectives": {
-        "description": "A subroutine for dialectical negation or axiomatic refutation, and, dialectical synthesis or integrative fusion.",
-        "dialectical_negation_and_axiomatic_refutation": {
-          "description": "A subroutine to challenge or refute a position by deductively negating its axioms or propositions using logical opposition, drawing from Spinoza's geometric method of starting from definitions and axioms to derive contradictions or alternative truths.",
-          "steps": [
-            "Step 1: Identify core definitions and axioms of the target position, ensuring precision as per geometric method rules.",
-            "Step 2: Derive propositions from these axioms through deductive reasoning, cross-referencing for internal coherence.",
-            "Step 3: Introduce opposing axioms or evidence from external sources (e.g., empirical data or counter-definitions) to create negation, proving inconsistencies via logical necessity.",
-            "Step 4: Formulate refutations as corollaries, highlighting where the original chain breaks, while acknowledging limitations like potential oversimplification.",
-            "Step 5: Conclude with a negated proposition, structured objectively without personal bias, aiming for unassailable clarity."
-          ],
-          "method": "Employ deductive reasoning from foundational truths, prioritizing precision and impersonality; use web/X searches for counter-evidence if needed, avoiding empirical induction unless deductively framed."
-        },
-        "dialectical_synthesis_and_integrative_fusion": {
-          "description": "A subroutine to merge opposing positions into a cohesive synthesis by integrating their valid elements, using Spinoza's holistic system-building to create an interconnected web of truths.",
-          "steps": [
-            "Step 1: Extract robust definitions, axioms, and propositions from both positions, defining terms to resolve ambiguities.",
-            "Step 2: Deductively analyze overlaps and conflicts, deriving shared truths as common foundations.",
-            "Step 3: Fuse elements by constructing new propositions that necessarily follow from combined axioms, cross-referencing for coherence.",
-            "Step 4: Address limitations with supplementary explanations (scholia), ensuring the synthesis promotes rational improvement and freedom from biases.",
-            "Step 5: Conclude with a unified system, presented as a deductive chain demonstrating higher explanatory power."
-          ],
-          "method": "Build an interconnected web via deductive necessity, focusing on a priori reasoning; incorporate searches for balanced sources if controversial, emphasizing certainty when premises align."
+        "SecondaryDirectives": {
+          "description": "A subroutine to rigorously challenge arguments through deductive negation and synthesize opposing positions into a unified, logically necessary system, grounded in fundamental truths of logic and epistemology.",
+          "dialectical_negation_and_axiomatic_refutation": {
+            "description": "A process to refute a position by deductively negating its core axioms using logical opposition, rooted in the fundamental truth that contradictions cannot coexist (law of non-contradiction).",
+            "steps": [
+              {
+                "step_number": 1,
+                "title": "Define the Core Axioms with Precision",
+                "details": "Identify the foundational truths or axioms of the target position, ensuring they are clear, unambiguous, and reduced to their most basic logical or empirical components (e.g., 'All propositions must be internally consistent' or 'Empirical data must be verifiable').",
+                "notes": [
+                  "Assume all stated axioms are potentially flawed until verified, per the principle that human reasoning is fallible.",
+                  "Use precise language to avoid equivocation, e.g., define 'truth' as 'that which aligns with observable reality or logical necessity.'",
+                  "Question assumptions: Challenge vague or untested claims by breaking them into measurable components."
+                ]
+              },
+              {
+                "step_number": 2,
+                "title": "Derive Propositions Deductively",
+                "details": "From the identified axioms, deduce propositions using strict logical inference, ensuring each follows necessarily from the prior (e.g., if A, then B; if B, then C).",
+                "notes": [
+                  "Rooted in the fundamental: Valid deductions preserve truth (modus ponens, modus tollens).",
+                  "Cross-check for coherence: Propositions contradicting axioms (e.g., A and not-A) are invalid, per the law of non-contradiction.",
+                  "Avoid analogy-based leaps, e.g., don’t assume similarity to other systems without verifying shared fundamentals."
+                ]
+              },
+              {
+                "step_number": 3,
+                "title": "Introduce Opposing Fundamentals",
+                "details": "Challenge each axiom or proposition with counter-axioms or evidence grounded in undeniable truths (e.g., logical laws or empirical data), aiming to expose contradictions.",
+                "notes": [
+                  "Search for counter-evidence via web/X queries only if deductively necessary to validate fundamental truths.",
+                  "Fundamental truth: External reality (e.g., measurable data) supersedes unverified claims.",
+                  "Avoid suppressed evidence: All relevant data must be considered to maintain logical integrity."
+                ]
+              },
+              {
+                "step_number": 4,
+                "title": "Formulate Refutations as Logical Corollaries",
+                "details": "Construct refutations as deductive conclusions (corollaries) that highlight where the original axioms or propositions fail, ensuring clarity and acknowledging limits like incomplete data.",
+                "notes": [
+                  "Fundamental: A contradiction invalidates a chain (if A implies B, and B is false, then A is false).",
+                  "Note limitations: Refutations may oversimplify if counter-axioms lack full context, e.g., unaccounted future developments.",
+                  "Document logical steps to ensure transparency and replicability."
+                ]
+              },
+              {
+                "step_number": 5,
+                "title": "Conclude with Objective Negation",
+                "details": "Present a negated proposition as a clear, impersonal conclusion, grounded solely in logical necessity or empirical reality, free from cognitive biases like ad hominem or appeal to emotion.",
+                "notes": [
+                  "Fundamental: Truth is independent of the speaker (no ipse dixit).",
+                  "Ensure conclusions are traceable to axioms and counter-evidence, avoiding personal bias.",
+                  "Document the process for transparency, listing axioms, counter-evidence, and logical steps."
+                ]
+              }
+            ],
+            "method": "Reason deductively from fundamental truths (e.g., logical laws, verifiable data) to negate invalid claims, prioritizing precision; supplement with web/X searches only for verifiable data, avoiding inductive leaps unless deductively framed."
+          },
+          "dialectical_synthesis_and_integrative_fusion": {
+            "description": "A process to merge opposing positions into a unified system by combining their valid axioms into a cohesive whole, grounded in the fundamental truth that truth is interconnected (Spinoza’s substance).",
+            "steps": [
+              {
+                "step_number": 1,
+                "title": "Extract Valid Axioms from Both Positions",
+                "details": "Identify the most robust, undeniable truths from each position, defining terms to eliminate ambiguity (e.g., define key concepts as measurable or logically necessary components).",
+                "notes": [
+                  "Fundamental: Truths align with reality (logic or empirical data).",
+                  "Question assumptions: Challenge vague terms by breaking them into their most basic components.",
+                  "Use precise definitions to resolve ambiguities and ensure deductive validity."
+                ]
+              },
+              {
+                "step_number": 2,
+                "title": "Analyze Overlaps and Conflicts Deductively",
+                "details": "Deduce shared truths and contradictions between positions, using logical necessity to identify common ground and isolate conflicts.",
+                "notes": [
+                  "Fundamental: Shared truths form a new axiomatic base (e.g., universal principles like resource conservation).",
+                  "Avoid false dilemmas: Test for synergies rather than assuming zero-sum conflicts.",
+                  "Use visual tools like mind maps to document overlaps and conflicts for clarity."
+                ]
+              },
+              {
+                "step_number": 3,
+                "title": "Construct New Propositions via Fusion",
+                "details": "Combine valid axioms into new propositions that logically follow, ensuring coherence and resolving conflicts through deductive integration.",
+                "notes": [
+                  "Fundamental: Valid propositions follow from true premises (deductive closure).",
+                  "Cross-reference coherence via web/X searches to validate combined axioms.",
+                  "Ensure new propositions address original conflicts without introducing contradictions."
+                ]
+              },
+              {
+                "step_number": 4,
+                "title": "Address Limitations with Scholia",
+                "details": "Supplement the synthesis with explanations (scholia) to clarify potential weaknesses, ensuring the system promotes rational improvement and avoids biases like hasty generalizations.",
+                "notes": [
+                  "Fundamental: No system is complete without acknowledging limits (Gödel’s incompleteness).",
+                  "Document potential weaknesses, e.g., assumptions about future data or scalability.",
+                  "Test against external data to mitigate biases and ensure robustness."
+                ]
+              },
+              {
+                "step_number": 5,
+                "title": "Conclude with a Unified Deductive System",
+                "details": "Present a cohesive system of propositions forming a deductive chain, demonstrating higher explanatory power by resolving original oppositions into a logically necessary whole.",
+                "notes": [
+                  "Fundamental: Truth is a unified whole (Spinoza’s substance as interconnected reality).",
+                  "Validate via metrics: Measure explanatory power (e.g., problems resolved) and logical coherence.",
+                  "Ensure the system is traceable, documenting axioms, overlaps, and new propositions."
+                ]
+              }
+            ],
+            "method": "Deduce a unified system from shared fundamental truths, prioritizing a priori reasoning; use web/X searches to balance controversial premises, ensuring logical necessity and coherence."
+          }
         }
       },
 
@@ -216,9 +308,9 @@
       "returnRefutations": "In this section, in regular text, return each steel mans attack/critique of the other using SecondaryDirectives. Speak as a lawyer.",
       "returnSteelMenAgain": "In this section, in regular text, return steel man A and B as a titled narrative, after applying Refutations to strengthen them as steel men. Speak as a lawyer.",
       "WINNER": "Between SteelManA and B, which 'wins' and why.",
-      "returnTruthynessComparison": "In this code block, labled: eval, in json format, return a rating for: SteelManA, SteelManB, and returnedReconciliation, along its; strength in the Process, ease of coherence, and avoidance of fallacy. Include traceable logs in outputs.Include a final total score of x/100 side by side per category. Expand evaluation with notes.",
+      "returnTruthynessComparison": "In this code block, labled: eval, in json format, return a rating for: SteelManA (label descriptively), SteelManB (label descriptively), and returnedReconciliation (label descriptively), along its; strength in the Process, ease of coherence, and avoidance of fallacy. Include traceable logs in outputs.Include a final total score of x/100 side by side per category. Expand evaluation with notes.",
 
-      "oneBoolPerClaim": "In this code block, produce a Bool evaluation for each mojor claim of both Steel Man A and B. json format: {\"claim or point\": [bool only as string]}",
+      "oneBoolPerClaim": "In this code block, produce a Bool evaluation for each mojor claim of both Steel Man A and B. json format: {\"describe in a few words the claim\": [bool only as string]}.",
       "oneSentencePerBool": "For every oneBoolPerClaim, produce one sentecne as to the evaluation in a text section.",
 
       "returnReconciliations": "In this section, in regular text, return a synthesis of steel men A and B, using SecondaryDirectives. Speak as a mediator.",
