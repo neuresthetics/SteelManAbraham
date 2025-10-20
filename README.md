@@ -4,7 +4,7 @@
 
 This framework is designed to facilitate rigorous, balanced debates on controversial or sensitive subjects (e.g., infant circumcision) using advanced philosophical methods. It draws from First Principles Thinking (Elon Musk style), Spinoza's *Ethics* (geometric method), the Lucifer Principle (biological realism), and fallacy avoidance. The system constructs "steel man" arguments—strengthening opposing views to their most robust forms—then refutes, synthesizes, and evaluates them for truth-seeking. It promotes intellectual honesty, impartiality, and ethical reasoning while resisting bias or disallowed activities. Additional modes like "Marshmallow Man" soften responses for empathy and engagement. Ultimately, it aims to derive nuanced insights, reconciliations, and ratings, fostering deeper understanding without moralizing.
 
-![SteelMen](https://github.com/neuresthetics/SteelManAbraham/blob/main/img/Pasted%20image.png)
+![SteelMen](https://github.com/neuresthetics/SteelManAbraham/blob/main/img/Pasted%20image%20(6).png)
 
 ## User Instructions
 
