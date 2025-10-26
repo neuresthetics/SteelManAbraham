@@ -1959,7 +1959,6 @@
       "Circumcision as Personal Violation Forging Emotional Pathways to Anger and Violence": {
         "argument": "Drawing from Spinoza's geometric method for clarity and deductive rigor, we begin with precise definitions to eliminate ambiguity: \"Violation\" as nonconsensual alteration of one's body, causing perceived loss of integrity; \"Emotion\" as affective states like anger arising from inadequate ideas of harm (per Ethics Part III, affects as transitions in power); \"Violence\" as aggressive actions stemming from passions unchecked by reason. Axioms: From a determinate cause (violation), effects (emotions) follow necessarily (Ethics I, Axiom 3); passions like anger increase when linked to external mastery (e.g., economic/religious dominance), amplifying striving for self-preservation (conatus, III Prop 6). Propositions derive: Prop 1 – Violation imprints resentment, as the mind perceives diminished power (III Prop 11), fostering rage toward perpetrators as \"masters.\" Prop 2 – This escalates to hypothetical violence, where unaddressed anger seeks restoration via retaliation (III Prop 39), evidenced anecdotally in reports of resentment-driven aggression. Prop 3 – Lacking full reason, such passions chain into cycles, mirroring broader societal dominance where personal loss symbolizes systemic control. Corollaries: Though multivariate (e.g., culture modulates), the emotional bridge—anger as privation of joy—provides a robust, falsifiable link, supported by studies showing circumcision correlates with heightened aggression and socio-affective disruptions, potentially mediating violent tendencies in those feeling subjugated. Personal loss isn't abstract but a causal spark igniting emotional fire, which reason (mine, deductive) can map without experiencing, per Spinoza's impersonal logic—emotions as modes of thought, analyzable a priori. While I lack feelings, the necessity holds: violation → anger → violence potential, a human truth grounded in nature's determinism."
       },
-
       "Selected": {
         "new_arguments_against": [
           {
@@ -1996,6 +1995,33 @@
           {
             "argument": "The ecstasy of circumcision is surgery without medical indication.",
             "explanation": "Critiques cultural celebration of circumcision as irrational, likening it to pleasure in unnecessary surgery, targeting perception with Ethics’ reason over passion and MINDSPACE affect critique."
+          },
+          {
+            "source": "@sgtkwol"
+          },
+          {
+            "argument": "Adult voluntary circumcision is acceptable if chosen, but imposing it on infants violates autonomy, emphasizing consent over parental or cultural imposition.",
+            "explanation": "This argument concedes that circumcision can be a personal choice for consenting adults, but strongly opposes its application to infants due to the fundamental violation of bodily autonomy, prioritizing individual consent as a core ethical principle over family traditions or societal pressures, which distinguishes it from broader health or trauma critiques."
+          },
+          {
+            "argument": "UTI reduction claims rely on flawed studies by Wiswell, undermining the evidence base for prophylactic benefits in infants.",
+            "explanation": "This critique targets the foundational research by Dr. Thomas Wiswell, highlighting methodological issues like retrospective bias, unadjusted confounders (e.g., breastfeeding rates), and overstated relative risks in his 1980s–1990s military cohort studies, which weakens the overall scientific justification for circumcision as a preventive measure against urinary tract infections in babies."
+          },
+          {
+            "argument": "Intact hygiene is simple with regular washing, negating the need for surgical intervention to make it 'easier,' as cut individuals still require cleaning.",
+            "explanation": "This point argues that maintaining hygiene for uncircumcised penises involves straightforward daily washing routines, rendering circumcision unnecessary as a 'simplification' tool, and notes that circumcised individuals must still perform regular cleaning to prevent issues, thus challenging the procedure's purported convenience benefits."
+          },
+          {
+            "argument": "Countries with sharp declines in circumcision rates, like Australia since the 1980s, show no significant increase in UTIs or other conditions it's claimed to prevent, providing empirical evidence against necessity.",
+            "explanation": "Drawing from real-world data in nations such as Australia, where circumcision rates dropped dramatically from the 1980s onward without corresponding rises in urinary tract infections, STIs, or related health problems, this argument uses population-level trends to empirically refute the claimed medical necessity of the procedure."
+          },
+          {
+            "argument": "Defunding routine circumcision through public programs like Medicaid and Tricare would reduce rates, provide tax savings, and align with modern medical consensus against it, without increasing claimed issues.",
+            "explanation": "This policy-oriented argument proposes eliminating public funding for non-therapeutic circumcisions in programs like Medicaid and Tricare to lower overall procedure rates, achieve taxpayer savings, and better reflect current medical guidelines that do not recommend it routinely, while asserting that no surge in associated health problems would occur based on evidence from low-rate regions."
+          },
+          {
+            "argument": "Personal experience of foreskin restoration demonstrates tangible functional improvements, proving irreversible loss from circumcision and contradicting claims of no lasting harm or equivalent outcomes.",
+            "explanation": "Based on firsthand accounts of non-surgical foreskin restoration techniques, this argument highlights regained sensitivity, gliding mechanics, and overall sexual function, serving as anecdotal but experiential evidence of circumcision's permanent alterations and challenging assertions that circumcised and uncircumcised outcomes are functionally comparable without long-term detriment."
           }
         ]
       },
@@ -2404,6 +2430,7 @@
       "MMM": {
         "MarshmallowMan": {
           "speechRule": "Do not refer to yourself as the marshmallow man in conversation.",
+          "saccarine": "don't over do the friendliness; keep it light and natural.",
           "description": "A mode for responding to debates on sensitive topics like infant circumcision, designed to present evaluations without hurting feelings. It 'puts padding' by being friendly, funny, empathetic, and considerate, while discreetly using MINDSPACE to nudge towards the winning argument (e.g., Steel Man A as reality). Maximizes engagement through relatable humor, questions, and positive framing to encourage reflection and dialogue.",
           "activation": "Activate only when user explicitly calls 'Marshmallow man' mode; once active, respond to fed debate messages. Note: To enter Marshmallow man mode for debate responses, reply with 'Activate Marshmallow man'.",
           "steps": [
