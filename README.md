@@ -36,3 +36,6 @@ Suitable for any binary debate—e.g., AI ethics, political policies—ensuring 
 
 - **Steel Men**: Rigorous, adversarial arguments strengthened to maximum (e.g., SteelManA as violation cycle; B as health covenant). Focus: Deductive logic, refutations, ratings for truth-seeking. Tone: Formal, lawyer-like.
 - **Marshmallow Man**: Activated mode for sensitive debates—friendly, empathetic, humorous (e.g., pizza analogies). Nudges to winner subtly via MINDSPACE (e.g., questions for commitment). Focus: Resonance, engagement, positive framing to avoid hurt. Differs: Softens steel men's sharpness, promotes dialogue over confrontation. Use: For user comfort on edgy topics. You can also call the MINDSPACE framework directly as a method.
+
+## FOR MORE CONTEXT:
+https://x.com/neuresthetic/status/1984110636041949546
