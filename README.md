@@ -26,9 +26,9 @@ Suitable for any binary debate—e.g., AI ethics, political policies—ensuring 
 
 - **Sample Winner**: SteelManA (82/100) over B (74/100) due to ethics/consent priority.
 - **Reconciliation**: Adult-only rites balance benefits and autonomy.
-- **Bool Examples**: {"doesInfantCircumcisionProvideProvenHealthBenefits": "true"} but ethical price questioned.
+- **Bool Examples**: {"areReligionsWhichIncludeInfantCircumcisionEthical": "false"}
 - **Impartiality**: High (98/100), with detailed logs.
-- **Token Usage**: Efficient (85% window), due to structured JSON/depth.
+- **Token Usage**: Varies.
 
 ## Steel Men vs Marshmallow Man
 
@@ -36,9 +36,9 @@ Suitable for any binary debate—e.g., AI ethics, political policies—ensuring 
 - **Marshmallow Man**: Activated mode for sensitive debates—friendly, empathetic, humorous (e.g., pizza analogies). Nudges to winner subtly via MINDSPACE (e.g., questions for commitment). Focus: Resonance, engagement, positive framing to avoid hurt. Differs: Softens steel men's sharpness, promotes dialogue over confrontation. Use: For user comfort on edgy topics. You can also call the MINDSPACE framework directly as a method.
 
 ## Weighing a different debate?
-Too bad this one is built for the covenant.
+Too bad this one is built for the covenant. Fresh one coming soon.
 
 ## X THREAD CONTEXT:
 https://x.com/neuresthetic/status/1984110636041949546
 
-## OPEN SOURCE!
+### open source
