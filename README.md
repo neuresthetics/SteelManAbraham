@@ -8,14 +8,12 @@ This framework is designed to facilitate rigorous, balanced debates on controver
 
 ## User Instructions
 
-1. **Input Format**: Just talk! :D
-
-2. **USE**:
-   - Paste the script as a prompt into Grok4.
-   - After the first response, you can query further, or load 'marshmallow man' for MINDSPACE use. 
+**USE**:
+   - 1: Paste the script as a prompt into Grok4.
+   - 2: After the first response, you can query further, or load 'marshmallow man' for MINDSPACE use with the topic.
    - Additional functionality with the phrase: "Tell me the story of the arc.txt of SteelManA as a narrative."
 
-## This Application Is:
+### This Version Is:
 
 Applied to infant circumcision debate:
 - SteelManA: Anti-position emphasizing trauma, ethics violations.
@@ -37,5 +35,10 @@ Suitable for any binary debate—e.g., AI ethics, political policies—ensuring 
 - **Steel Men**: Rigorous, adversarial arguments strengthened to maximum (e.g., SteelManA as violation cycle; B as health covenant). Focus: Deductive logic, refutations, ratings for truth-seeking. Tone: Formal, lawyer-like.
 - **Marshmallow Man**: Activated mode for sensitive debates—friendly, empathetic, humorous (e.g., pizza analogies). Nudges to winner subtly via MINDSPACE (e.g., questions for commitment). Focus: Resonance, engagement, positive framing to avoid hurt. Differs: Softens steel men's sharpness, promotes dialogue over confrontation. Use: For user comfort on edgy topics. You can also call the MINDSPACE framework directly as a method.
 
-## FOR MORE CONTEXT:
+## Weighing a different debate?
+Too bad this one is built for the covenant.
+
+## X THREAD CONTEXT:
 https://x.com/neuresthetic/status/1984110636041949546
+
+## OPEN SOURCE!
