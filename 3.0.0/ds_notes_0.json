@@ -1,0 +1,387 @@
+{
+  "project": "Neuresthetic",
+  "subtitle": "A Covenant of Coherence",
+  "version": "1.0",
+  "lineage": {
+    "book_I": {
+      "author": "Euclid",
+      "work": "Elements",
+      "subject": "External space / quantity",
+      "method": "Deductive geometry (axioms, postulates, theorems)",
+      "contribution": "The world can be axiomatized"
+    },
+    "book_II": {
+      "author": "Spinoza",
+      "work": "Ethics",
+      "subject": "God / Nature (Deus sive Natura)",
+      "method": "More Geometrico (geometric method applied to metaphysics)",
+      "contribution": "God can be proven through reason"
+    },
+    "book_III": {
+      "author": "Kant (hypothetical)",
+      "work": "The Architectonic",
+      "subject": "Transcendental cognition",
+      "method": "Critical self-examination",
+      "contribution": "The subject cannot fully map itself (regress problem)",
+      "central_theorem": "The mapmaker cannot be mapped."
+    },
+    "book_IV": {
+      "author": "Neuresthetic",
+      "work": "Neuresthetic: A Covenant of Coherence",
+      "subject": "The brain's self-wiring via PCC/CC optimization",
+      "method": "Neuresthetic recursion + covenant",
+      "contribution": "The mapmaker can be optimized (if not completed)",
+      "response_to_book_III": "Acknowledges the regress problem; proposes pragmatic fixed points / cognitive attractors as termination condition."
+    }
+  },
+  "core_claim": {
+    "summary": "The PCC (posterior cingulate cortex) is the brain's central processing bottleneck. Its efficiency dictates global cognitive bandwidth. The CC (corpus callosum) is a sub-bottleneck within the PCC. Optimizing both via (1) belief coherence and (2) ambidexterity produces measurable cognitive enhancement. This optimization implies a covenant among practitioners, which includes ethical obligations and falsification protocols.",
+    "falsification_criteria": "If longitudinal study (Chapter 19) fails to show significant effects, the covenant dissolves."
+  },
+  "directed_acyclic_graph": {
+    "nodes": [
+      {
+        "id": "N01",
+        "type": "axiom",
+        "name": "Network Centrality",
+        "description": "In any networked system, central nodes constrain global throughput. Efficiency of the central bottleneck determines system-wide performance.",
+        "source": "Graph theory",
+        "edges_to": ["N02", "N03"]
+      },
+      {
+        "id": "N02",
+        "type": "empirical_premise",
+        "name": "PCC as Central Brain Hub",
+        "description": "The posterior cingulate cortex (PCC) is the most central node in the brain's connectome. It is the hub for entity processing (self, objects, systems) and is metabolically voracious within the Default Mode Network.",
+        "source": "Buckner et al., 2008; Raichle, 2001",
+        "edges_to": ["N04", "N05"]
+      },
+      {
+        "id": "N03",
+        "type": "empirical_premise",
+        "name": "CC as Sub-Bottleneck",
+        "description": "The corpus callosum (CC), specifically its posterior third rich in parietal/occipital fibers, connects the PCC's hemispheric halves. The PCC's division across hemispheres creates a bottleneck within the bottleneck.",
+        "source": "Witelson, 1985; Men et al., 2014",
+        "edges_to": ["N04", "N12"]
+      },
+      {
+        "id": "N04",
+        "type": "derived_premise",
+        "name": "Bottleneck Hypothesis",
+        "description": "The PCC bottlenecks the brain's network; the CC bottlenecks the PCC. Enhancing both compounds efficiency multiplicatively.",
+        "source": "Synthesis of N02 + N03",
+        "edges_to": ["N15"]
+      },
+      {
+        "id": "N05",
+        "type": "mechanism",
+        "name": "Cognitive Dissonance as Metabolic Load",
+        "description": "Dissonance (unresolved prediction error) imposes a metabolic cost on the PCC. The brain must allocate resources to maintain contradictory beliefs, reducing bandwidth available for other cognitive tasks.",
+        "source": "Friston, 2010 (predictive coding); Festinger (dissonance theory)",
+        "edges_to": ["N06", "N07"]
+      },
+      {
+        "id": "N06",
+        "type": "derived_premise",
+        "name": "Belief Coherence as Compression Efficiency",
+        "description": "Belief systems with high logical consistency and empirical alignment minimize dissonance, reducing PCC load. This is analogous to data compression: a coherent schema occupies less neural 'storage' and requires less maintenance.",
+        "source": "Synthesis of N05 + information theory",
+        "edges_to": ["N08", "N09"]
+      },
+      {
+        "id": "N07",
+        "type": "empirical_support",
+        "name": "IQ-Religiosity Meta-Analyses",
+        "description": "Meta-analyses (63-89 studies) show a small but robust negative correlation between religiosity and IQ (r ≈ -0.20 to -0.24). Stronger for beliefs than behaviors. Mechanisms include analytic thinking, functional substitution, and openness.",
+        "source": "Zuckerman, 2013; Stagnaro, 2022",
+        "edges_to": ["N09"]
+      },
+      {
+        "id": "N08",
+        "type": "original_data",
+        "name": "Genius Distribution by Ideology",
+        "description": "Dataset of ~450 historical geniuses shows dramatic variation in per capita rates. Pantheism (1,200/million) vs. Christianity (0.073/million) even after sensitivity adjustments (10x population, halved genius counts). Correlation with coherence scores: r = 0.389, p = 0.060.",
+        "source": "Original dataset (Hart's The 100 + biographical compilation)",
+        "edges_to": ["N09"]
+      },
+      {
+        "id": "N09",
+        "type": "hypothesis",
+        "name": "Dissonance-Load Hypothesis (Formal)",
+        "description": "Coherence → ↓dissonance → ↓PCC load → ↑cognitive bandwidth. This predicts a dose-response relationship: higher coherence scores correlate with higher cognitive performance and genius representation.",
+        "source": "Synthesis of N06 + N07 + N08",
+        "edges_to": ["N15"]
+      },
+      {
+        "id": "N10",
+        "type": "mechanism",
+        "name": "Hemispheric Integration via CC",
+        "description": "The left hemisphere specializes in symbolic reasoning/language; the right in spatial/holistic processing. The PCC's function requires integration across both. The CC is the physical substrate of this integration.",
+        "source": "Neuroanatomy",
+        "edges_to": ["N11", "N12"]
+      },
+      {
+        "id": "N11",
+        "type": "empirical_premise",
+        "name": "Handedness and CC Plasticity",
+        "description": "Left-handedness and ambidexterity correlate with increased CC thickness. Cross-hemispheric communication drives white matter growth via use-dependent plasticity.",
+        "source": "Witelson, 1985; Gentner et al., 2018",
+        "edges_to": ["N12"]
+      },
+      {
+        "id": "N12",
+        "type": "hypothesis",
+        "name": "Ambidexterity Training as CC Optimization",
+        "description": "Practicing non-dominant hand writing (symbolic reasoning + fine motor control) increases CC throughput, specifically in regions connecting PCC hemispheres. This is a behavioral intervention targeting the sub-bottleneck.",
+        "source": "Synthesis of N03 + N10 + N11",
+        "edges_to": ["N15"]
+      },
+      {
+        "id": "N13",
+        "type": "derived_premise",
+        "name": "Base Class Theology",
+        "description": "Pantheism (Deus sive Natura) is the most coherent theological framework. It resolves interventionist paradoxes (problem of evil, free will vs. omniscience) by identifying God with Nature. Uses Object-Oriented Programming as hermeneutic for comparative religion: the universe is the Base Class; religions are derived classes with inheritance, polymorphism, encapsulation.",
+        "source": "Spinoza (Ethics) + OOP principles",
+        "edges_to": ["N06", "N09", "N14"]
+      },
+      {
+        "id": "N14",
+        "type": "normative_framework",
+        "name": "Base Class Pattern",
+        "description": "A 2x2 evaluation matrix for any system (religious, economic, personal): Positive/Negative × Sustainable/Unsustainable. Four quadrants. Goal: move systems toward Positive ⊞ Sustainable. This replaces divine command ethics with consequentialist sustainability evaluation.",
+        "source": "Original (derived from Spinoza's relative good/evil + systems thinking)",
+        "edges_to": ["N16", "N17"]
+      },
+      {
+        "id": "N15",
+        "type": "core_theorem",
+        "name": "The Multiplicative Effect",
+        "description": "PCC optimization (via coherence) and CC optimization (via handedness) are multiplicative, not additive. Improving both compounds throughput because the CC is a sub-bottleneck within the PCC. Predicted interaction effect: coherence + ambidexterity > sum of parts.",
+        "source": "Synthesis of N04 + N09 + N12",
+        "edges_to": ["N16"]
+      },
+      {
+        "id": "N16",
+        "type": "emergent_property",
+        "name": "Collective Intelligence Loops",
+        "description": "When individually optimized PCC/CC practitioners form a network, collective intelligence becomes super-additive. Reduced individual dissonance enables faster group consensus; shared coherence schema reduces communication overhead; network effects (Metcalfe's law) apply to coherent cognition.",
+        "source": "Synthesis of N15 + group IQ literature",
+        "edges_to": ["N17", "N18"]
+      },
+      {
+        "id": "N17",
+        "type": "covenant_article",
+        "name": "The Covenant (General)",
+        "description": "A covenant is transformational (vs. contract's transactional). It binds persons, not just actions. The PCC-CC model implies covenant because optimization creates interdependence: individually enhanced cognition has collective implications.",
+        "source": "Biblical covenant theology + social contract theory",
+        "edges_to": ["N18", "N19", "N20", "N21", "N22"]
+      },
+      {
+        "id": "N18",
+        "type": "covenant_article",
+        "name": "The Collective Covenant",
+        "description": "Practitioners form a network with reciprocal obligations. The network's intelligence is super-additive. The network shall not exploit non-practitioners. The network shall subject itself to falsification. Preventive articles against cult dynamics: mandatory external engagement, dissent rights, open criticism.",
+        "source": "Original",
+        "edges_to": ["N19", "N20"]
+      },
+      {
+        "id": "N19",
+        "type": "covenant_article",
+        "name": "The Anti-Elitism Clause",
+        "description": "Cognitive enhancement is domain-specific (pattern recognition, dissonance reduction, cross-hemispheric integration). It confers no moral authority, no political privilege, no exemption from criticism. Practitioners who claim superiority have violated the covenant.",
+        "source": "Original (response to anticipated elitism charge)",
+        "edges_to": []
+      },
+      {
+        "id": "N20",
+        "type": "covenant_article",
+        "name": "The Dissolution Clause",
+        "description": "If the longitudinal study (proposed protocol) fails to show significant effects (p < 0.05, adequate power), the covenant dissolves. No faith requirement. The covenant lives or dies by data. This distinguishes covenant from cult: falsifiability.",
+        "source": "Original (response to cult charge)",
+        "edges_to": []
+      },
+      {
+        "id": "N21",
+        "type": "philosophical_response",
+        "name": "The Regress Problem (Answered)",
+        "description": "Objection (from Book III, The Architectonic): 'The mapmaker cannot be mapped.' If the optimized system includes a representation of itself as optimized, recursion is infinite. Response: Cognitive attractors exist. The recursion terminates at a fixed point—a stable configuration of beliefs and practices that does not require further recursion. This is pragmatism, not proof, but it is sufficient for optimization (if not completeness). The distinction: optimization (finite, practical) vs. completeness (infinite, impossible).",
+        "source": "Synthesis of Kantian critique + pragmatism (Peirce/James)",
+        "edges_to": ["N16"]
+      },
+      {
+        "id": "N22",
+        "type": "research_proposal",
+        "name": "Longitudinal Protocol",
+        "description": "Pre-registered study. Four arms: (1) coherence + handedness, (2) coherence alone, (3) handedness alone, (4) control. N ≈ 100. Duration: 6 months. Pre/post measures: IQ (Raven's matrices), DMN connectivity (resting-state fMRI), CC thickness (structural MRI), coherence score change. Predicted: arm (1) shows significantly greater gains (Cohen's d > 0.5).",
+        "source": "Original (falsification protocol)",
+        "edges_to": ["N20"]
+      }
+    ],
+    "edges": [
+      {"from": "N01", "to": "N02"},
+      {"from": "N01", "to": "N03"},
+      {"from": "N02", "to": "N04"},
+      {"from": "N03", "to": "N04"},
+      {"from": "N02", "to": "N05"},
+      {"from": "N05", "to": "N06"},
+      {"from": "N05", "to": "N07"},
+      {"from": "N06", "to": "N09"},
+      {"from": "N07", "to": "N09"},
+      {"from": "N08", "to": "N09"},
+      {"from": "N02", "to": "N10"},
+      {"from": "N10", "to": "N11"},
+      {"from": "N03", "to": "N12"},
+      {"from": "N11", "to": "N12"},
+      {"from": "N13", "to": "N06"},
+      {"from": "N13", "to": "N09"},
+      {"from": "N13", "to": "N14"},
+      {"from": "N04", "to": "N15"},
+      {"from": "N09", "to": "N15"},
+      {"from": "N12", "to": "N15"},
+      {"from": "N15", "to": "N16"},
+      {"from": "N14", "to": "N16"},
+      {"from": "N14", "to": "N17"},
+      {"from": "N16", "to": "N17"},
+      {"from": "N17", "to": "N18"},
+      {"from": "N17", "to": "N19"},
+      {"from": "N17", "to": "N20"},
+      {"from": "N21", "to": "N16"},
+      {"from": "N22", "to": "N20"}
+    ]
+  },
+  "key_realizations": [
+    {
+      "id": "R01",
+      "content": "Core B (coherence → genius) is a subset of Core A (PCC bottleneck optimization). Coherence is the mechanism by which PCC load is reduced."
+    },
+    {
+      "id": "R02",
+      "content": "The per capita genius disparity (pantheism at 1,200/million vs. Christianity at 0.073/million) survives extreme sensitivity adjustments (10x population, halved genius counts). The robust finding is not the precise rate but the magnitude of difference."
+    },
+    {
+      "id": "R03",
+      "content": "The covenant is not antinomian. It is meta-nomian. The Base Class Pattern (2x2 evaluation) replaces divine command with systematic assessment. This avoids the 'law cancelled, do what thou wilt' problem."
+    },
+    {
+      "id": "R04",
+      "content": "The charge of elitism is neutralized by the Anti-Elitism Clause (N19) and the systematic nature of evaluation. Anyone can adopt the protocol. No bloodline, election, special revelation, or prophet. The claim is about structural properties of belief systems, not moral worth of persons."
+    },
+    {
+      "id": "R05",
+      "content": "The charge of cult is neutralized by the Dissolution Clause (N20) and the falsification protocol (N22). A covenant that commits to dissolving upon negative empirical results cannot be a cult."
+    },
+    {
+      "id": "R06",
+      "content": "Object-Oriented Programming reveals the actual inheritance structure of comparative religion. Religions are derived classes from the Base Class (universe as Deus sive Natura). This is not metaphor; it's an isomorphic mapping."
+    },
+    {
+      "id": "R07",
+      "content": "The Entity Framework (scale-crossing pattern: cells → humans → nations) leverages the PCC's natural entity-processing function. It compresses knowledge across domains into a single schema, reducing cognitive load."
+    },
+    {
+      "id": "R08",
+      "content": "The regress problem (mapmaker cannot be mapped) is answered by distinguishing optimization (finite, practical) from completeness (infinite, impossible). Cognitive attractors provide fixed points where recursion terminates."
+    },
+    {
+      "id": "R09",
+      "content": "Spinoza's excommunication was not a tragedy but a necessary separation. The Abrahamic covenant could not contain pantheism. This book claims supersession, but not through revelation—through coherence scoring and empirical testing."
+    },
+    {
+      "id": "R10",
+      "content": "The covenant requires a Vow (joining text), a Mark (physical sign without mutilation or exclusion), and a Calendar (temporal rhythm of practice). These are deferred to a later volume or Part VI."
+    }
+  ],
+  "covenant_articles_summary": [
+    "Article 1: The Base Class — Universe as Deus sive Natura; all religions inherit from it.",
+    "Article 2: The Pattern — Evaluation via Positive/Negative × Sustainable/Unsustainable.",
+    "Article 3: The Collective — Network with reciprocal obligations; super-additive intelligence.",
+    "Article 4: The Anti-Elitism Clause — No superiority of persons; domain-specific enhancement only.",
+    "Article 5: The Dissolution Clause — Covenant dissolves if longitudinal study fails.",
+    "Article 6: The Regress Answer — Pragmatic fixed points; optimization ≠ completeness."
+  ],
+  "open_questions": [
+    "If pantheism and atheism both have high coherence scores (49 and 50), why does pantheism have vastly higher genius per capita? Possible answers: (a) denominator error (pantheism undercounted), (b) selection bias (pantheism attracts geniuses for aesthetic/prestige reasons), (c) additional mechanism (pantheism's entity unification specifically targets PCC function in a way atheism's mere absence of entity does not). Which is true?",
+    "Does the Entity Framework (scale-crossing pattern) produce measurable PCC efficiency gains beyond those from coherence alone? This is testable via fMRI during scale-crossing reasoning tasks.",
+    "What is the optimal dose of ambidexterity training? 15 min/day? 30? What is the minimal effective dose?",
+    "Does the covenant require a centralized authority to interpret disputes, or is it distributed? The current text implies distributed (open criticism, no hierarchy), but distributed systems have coordination costs."
+  ],
+  "table_of_contents": {
+    "preface": "The Third Book",
+    "part_I": {
+      "title": "The Architecture of Constraint",
+      "chapters": [
+        "1: Central Bottlenecks in Networked Systems",
+        "2: The PCC as the Brain's Central Hub",
+        "3: The CC as Sub-Bottleneck"
+      ]
+    },
+    "part_II": {
+      "title": "Optimizing the PCC — The Dissonance Mechanism",
+      "chapters": [
+        "4: Cognitive Dissonance as Metabolic Load",
+        "5: Belief Coherence as Compression Efficiency",
+        "6: Empirical Support I — Intelligence and Religiosity",
+        "7: Empirical Support II — Historical Genius Distribution",
+        "8: The Dissonance-Load Hypothesis (Formal Statement)"
+      ]
+    },
+    "part_III": {
+      "title": "Optimizing the CC — The Hemispheric Integration Mechanism",
+      "chapters": [
+        "9: Hemispheric Specialization and Integration",
+        "10: Handedness and CC Plasticity",
+        "11: The Multiplicative Effect"
+      ]
+    },
+    "part_IV": {
+      "title": "The Covenant",
+      "chapters": [
+        "12: From Contract to Covenant",
+        "13: The Base Class",
+        "14: The Base Class Pattern",
+        "15: The Entity Framework",
+        "16: The Collective Covenant",
+        "17: The Anti-Elitism Clause",
+        "18: The Dissolution Clause"
+      ]
+    },
+    "part_V": {
+      "title": "Open Questions and Invitations",
+      "chapters": [
+        "19: A Longitudinal Protocol (Proposed)",
+        "20: Applications and Extensions",
+        "21: The Invitation"
+      ]
+    },
+    "appendices": [
+      "A: Per Capita Genius Table (with sensitivity caveats)",
+      "B: Coherence Scoring Rubric and Full System Scores",
+      "C: Genius Dataset (~450 figures, CSV)",
+      "D: Proposed Longitudinal Study Protocol",
+      "E: Glossary of Terms"
+    ]
+  },
+  "removed_for_later_or_separate_volume": [
+    "The Practice (ambidexterity protocol, daily reflection text, the Vow, the Mark, the Calendar)",
+    "Personal narrative (the 'cringe stuff' — drug history, suicidal ideation, psychedelic origin story)",
+    "Extended critique of specific contemporary religious figures (to avoid ad hominem)"
+  ],
+  "citation_anchors": [
+    "Buckner et al., 2008 — PCC as central DMN node",
+    "Friston, 2010 — Predictive coding / free energy principle",
+    "Men et al., 2014 — Einstein's CC vs. controls",
+    "Raichle, 2001 — DMN discovery",
+    "Spinoza, 1677 — Ethics, Deus sive Natura, substance monism",
+    "Stagnaro et al., 2022 — Meta-analysis (83 studies)",
+    "Witelson, 1985 — CC thickness and handedness",
+    "Zuckerman et al., 2013 — Meta-analysis (63 studies)"
+  ],
+  "response_to_anticipated_criticisms": {
+    "elitism": "The Anti-Elitism Clause (N19) explicitly forbids superiority claims. Enhancement is domain-specific. Anyone can adopt the protocol.",
+    "cult": "The Dissolution Clause (N20) and falsification protocol (N22) distinguish covenant from cult. A group that agrees to dissolve upon negative evidence cannot be a cult.",
+    "antinomianism": "The Base Class Pattern (N14) replaces divine command with systematic evaluation. This is meta-nomian, not antinomian.",
+    "Western_bias": "Acknowledged in sensitivity analysis. The dataset is Western-heavy. Future work must expand non-Western genius representation.",
+    "correlation_not_causation": "Acknowledged. The longitudinal study (N22) is designed to test causality. Until then, claims are correlational with mechanistic plausibility.",
+    "small_denominator_problem": "Acknowledged. Sensitivity analysis shows magnitude survives plausible adjustments; precise rates are not reliable."
+  }
+}
