@@ -1,3 +1,5 @@
+[Depricated. Historic artifact.]
+
 # README.md: Philosophical Debate Framework for Sensitive Topics
 
 ## Purpose
