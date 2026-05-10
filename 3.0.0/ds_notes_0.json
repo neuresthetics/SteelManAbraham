@@ -383,11 +383,6 @@
     "Western_bias": "Acknowledged in sensitivity analysis. The dataset is Western-heavy. Future work must expand non-Western genius representation.",
     "correlation_not_causation": "Acknowledged. The longitudinal study (N22) is designed to test causality. Until then, claims are correlational with mechanistic plausibility.",
     "small_denominator_problem": "Acknowledged. Sensitivity analysis shows magnitude survives plausible adjustments; precise rates are not reliable."
-  }
+  },
+  "sources": ["https://github.com/neuresthetics/NEUR-V6-DATA/blob/main/V6%3A%20The%20Impact%20of%20Ideology%20on%20Intelligence%3A%20Insights%20from%20Historical%20and%20Empirical%20Data.md", "https://github.com/neuresthetics/SteelManAbraham/blob/main/3.0.0/2.1.2.txt", "https://github.com/neuresthetics/SteelManAbraham/blob/main/3.0.0/ds_notes_0.json" ]
 }
-
-https://github.com/neuresthetics/NEUR-V6-DATA/blob/main/V6%3A%20The%20Impact%20of%20Ideology%20on%20Intelligence%3A%20Insights%20from%20Historical%20and%20Empirical%20Data.md
-
-https://github.com/neuresthetics/SteelManAbraham/blob/main/3.0.0/2.1.2.txt
-
-https://github.com/neuresthetics/SteelManAbraham/blob/main/3.0.0/ds_notes_0.json
