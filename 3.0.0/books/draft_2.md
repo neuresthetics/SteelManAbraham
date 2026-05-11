@@ -60,7 +60,7 @@ Appendix H: 95/115 Tier Quick-Reference Summaries
 Appendix I: Isolated Study and Data
 Appendix J: substance_lens
 Appendix K: substance_lens of THIS
-Appendix L: Feedbacks
+Appendix L: AI Feedbacks
 
 **Neuresthetic: A Covenant of Coherence**
 
@@ -5962,7 +5962,7 @@ The following is prompt engineering used to compile research.
 }
 ```
 
-**Appendix L: Feedbacks**
+**Appendix L: AI Feedbacks**
 
 ```json
 {
