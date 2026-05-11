@@ -1,4 +1,4 @@
-**Neuresthetic: A Covenant of Coherence**
+**Title: Neuresthetic: A Fiction of Coherence**
 
 **Table of Contents**
 
