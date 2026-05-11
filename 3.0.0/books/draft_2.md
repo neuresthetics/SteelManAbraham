@@ -37,15 +37,16 @@ Chapter 11: The Multiplicative Effect
 
 **Part IV: The Covenant**  
 Chapter 12: Deus sive Natura – The Base Class  
-Chapter 13: The Base Class Pattern  
-Chapter 14: The Entity Framework  
-Chapter 15: Collective Obligations, Anti-Elitism Clause, and Sign  
-Chapter 16: The Dissolution Clause  
+Chapter 13: The Ethics – Regenerated
+Chapter 14: The Base Class Pattern  
+Chapter 15: The Entity Framework  
+Chapter 16: Collective Obligations, Anti-Elitism Clause, and Sign  
+Chapter 17: The Dissolution Clause  
 
 **Part V: Testing and Scaling**  
-Chapter 17: The Longitudinal Study Protocol  
-Chapter 18: Applications and Extensions  
-Chapter 19: The Invitation  
+Chapter 18: The Longitudinal Study Protocol  
+Chapter 19: Applications and Extensions  
+Chapter 20: The Invitation  
 
 **Back Matter**  
 Appendix A: Per Capita Genius Table and Sensitivity Analyses  
@@ -59,8 +60,7 @@ Appendix H: 95/115 Tier Quick-Reference Summaries
 Appendix I: Isolated Study and Data
 Appendix J: substance_lens
 Appendix K: substance_lens of THIS
-Appendix L: The Ethics – Regenerated
-Appendix M: Feedbacks
+Appendix L: Feedbacks
 
 **Neuresthetic: A Covenant of Coherence**
 
@@ -162,11 +162,11 @@ This book is not for everyone. It is not for those who need certainty. It is not
 
 If that appeals to you, read on.
 
-**A Note on the Author**
+**A Note on the First Data Point**
 
-The author of this book is not a prophet. He has no special revelation, no direct line to the divine, no miracles to his name. He is a rogue intellectual, a book pirate, a self-taught polymath with no formal credentials and a history of drug abuse, crime, suicide attempts, repentance, discovery, and recovery. He is also the first data point. The practices in this book worked for him. They may work for you. They may not. The covenant does not rest on his authority. It rests on evidence that you can verify yourself.
+The covenant does not rest on authority. It rests on evidence. But evidence begins somewhere.
 
-The author stands in a lineage. Euclid gave us the geometric method. Spinoza applied it to God. Kant identified the regress problem. This book attempts the next step: optimization of the mapmaker via covenant. If the author has succeeded, it is because he stood on the shoulders of giants. If he has failed, it will be because he was not giant enough. The covenant will survive his failure or dissolve. Either way, the truth will out.
+The first person to test these practices was the author. His history is not a credential: no formal degrees, no institutional affiliation, a record of collapse and recovery that he does not recommend as a method. He is not a prophet, not a guru, not a saint. He is a single data point. Verification lies with the AI assisted human reader.
 
 **The Invitation**
 
@@ -862,35 +862,91 @@ The next chapter translates this mechanism into a practical, typing-dominant-wor
 **Part III: Optimizing the CC – Bilateral Integration**  
   (95 and 115 Tiered Paths Available)
 
-**Chapter 10: Bilateral Coordination in a Typing-Dominant World**
+**Chapter 10: Bilateral Coordination in Any World (Revised Full Length)**
 
 **10.1 Why the Sign Has Changed**
 
-In earlier drafts the covenant used non-dominant-hand writing as the physical sign. That protocol still works, but it is no longer the most practical or scalable choice. Most people in 2026 type far more than they write by hand. Daily life already supplies a baseline of bimanual activity through keyboards, touchscreens, and controllers. The covenant therefore updates the sign to any sustained bilateral coordination practice that reliably forces cross-hemispheric communication.
+In earlier drafts the covenant used non-dominant-hand writing as the physical sign. That protocol still works, but it is no longer the only option. The invariant is not the specific motion. The invariant is *cross-hemispheric communication*.
+
+The corpus callosum does not care what your hands are doing. It only cares that they are doing different things at the same time, forcing integration. The posterior third of the corpus callosum (the splenium) connects the two halves of the posterior cingulate cortex. Its throughput determines how efficiently your brain's central hub can integrate information from both hemispheres. Use-dependent plasticity drives myelination and fiber density. Regular practice widens the sub-bottleneck.
+
+The specific activity is a local optimization. The invariant is coordination.
 
 **10.2 The New Daily Practice**
 
-The original covenant asks for 15–30 minutes per day of deliberate bilateral coordination. The goal is not perfect symmetry. The goal is consistent, effortful integration between hemispheres. Acceptable practices include:
+The original covenant asks for 15–30 minutes per day of deliberate bilateral coordination. The goal is not perfect symmetry. The goal is consistent, effortful integration between hemispheres.
 
-- Alternating-hand typing drills or speed-typing exercises  
-- Bimanual video-game controllers or rhythm games  
-- Mirror-drawing or tracing apps  
-- Musical instruments that require coordinated use of both hands  
-- Sports or exercises with simultaneous limb movement (e.g., drumming, juggling, certain yoga flows)
+Choose the practice that fits your body, your tools, and your century. The bottleneck does not care about your instrument. It only cares that you play it.
 
-Any one of these, performed daily with focused attention, is sufficient.
+Acceptable practices include, but are not limited to:
 
-**10.3 Why It Still Works**
+| Category | Examples | Why It Works |
+| :--- | :--- | :--- |
+| **Manual coordination** | Non-dominant handwriting, mirror drawing, tracing apps | Forces fine motor control in the less-practiced hemisphere |
+| **Typing & digital** | Alternating-hand typing drills, speed-typing exercises, bimanual rhythm games | Uses existing tools; high adherence for desk-bound practitioners |
+| **Musical** | Piano, drums, guitar, any instrument requiring both hands for different tasks | Rhythm + pitch + timing = high cognitive demand |
+| **Physical** | Juggling, drumming, certain yoga flows, climbing, swimming | Whole-body coordination with real-time feedback |
+| **Tactile** | Clay sculpting with both hands, braiding, knot-tying | Proprioceptive integration without screens |
 
-The corpus callosum (especially the splenium) responds to use. Regular bilateral tasks increase myelination and fiber density regardless of whether the activity involves a pen or a keyboard. Neuroimaging confirms measurable improvements in inter-hemispheric transfer time and white-matter integrity within weeks of consistent practice.
+Any one of these, performed daily with focused attention, is sufficient. You may rotate between practices. You may invent your own. The only requirement is that both hemispheres must *communicate* — not just activate, but transfer information in real time.
+
+**10.3 Why It Still Works Across Eras**
+
+The neuroplasticity of the corpus callosum has been demonstrated across multiple modalities:
+
+- Musicians (especially pianists and drummers) show increased fractional anisotropy in the splenium compared to non-musicians
+- Bimanual training increases inter-hemispheric transfer speed within weeks, measurable by the Poffenberger paradigm
+- Mirror-drawing tasks produce measurable white-matter changes in the posterior corpus callosum
+- Even short-term (4-week) bimanual coordination training increases callosal myelination in young adults
+
+The mechanism is domain-general. The corpus callosum does not distinguish between a pen, a keyboard, a drumstick, or a yoga block. It only detects *differentiated simultaneous activity requiring integration*. That is the active ingredient.
+
+In 2026, daily life already supplies a baseline of bimanual activity through keyboards, touchscreens, and game controllers. The covenant's sign builds on that baseline rather than replacing it. In 2126, if neural interfaces replace keyboards, the sign will adapt — because the invariant (cross-hemispheric communication) will remain possible through other means.
 
 **10.4 95 Bracket Summary**
 
-You do not need to write with your left hand. You only need to do something every day that makes both sides of your brain talk to each other at the same time. That single habit widens the sub-bottleneck inside the PCC.
+You do not need to write with your left hand. You only need to do something every day that makes both sides of your brain talk to each other at the same time. Type with alternating hands. Play a rhythm game. Drum on your knees. Juggle three balls. The specific motion does not matter. The cross-talk matters. That single habit widens the sub-bottleneck inside the PCC.
 
 **10.5 115 Bracket Technical Note**
 
-Modern diffusion tensor imaging shows that sustained bimanual training increases fractional anisotropy in the posterior corpus callosum. These changes correlate with faster inter-hemispheric transfer on behavioral tasks (Poffenberger paradigm). In a typing-dominant population the absolute effect size may be modestly smaller than classic ambidexterity studies, but adherence feasibility is dramatically higher — exactly what the covenant requires for long-term scaling.
+Modern diffusion tensor imaging (DTI) shows that sustained bimanual training increases fractional anisotropy (FA) in the posterior corpus callosum (splenium), specifically in fibers connecting the left and right posterior cingulate cortices. FA increases correlate with faster inter-hemispheric transfer time on the Poffenberger paradigm (r ≈ 0.4–0.6) and with improved performance on tasks requiring integration of verbal and spatial information.
+
+The effect is dose-dependent: 15 minutes daily produces measurable change within 4–6 weeks; 30 minutes produces larger effects. Plateau occurs after approximately 6–12 months of consistent practice, at which point maintenance requires 3–5 sessions per week.
+
+The covenant does not require maximum effect. It requires consistent, sustainable practice. A smaller effect maintained for years outperforms a large effect abandoned after months.
+
+**10.6 Choosing Your Practice**
+
+If you are unsure where to start:
+
+| Your context | Recommended starting practice |
+| :--- | :--- |
+| Desk worker, types daily | Alternating-hand typing drills: 15 min/day typing pangrams with each hand taking alternating letters |
+| Musically inclined | Piano scales or drum practice: 15 min/day, focus on independence of hands |
+| Physically active | Juggling (three-ball cascade): 15 min/day, or drumming on a practice pad |
+| Low energy / low equipment | Mirror drawing: paper and pencil, trace a star while watching in a mirror |
+| Tech-native | Bimanual rhythm game (e.g., *osu!*, *Rhythm Heaven*, or any tablet app requiring two-handed coordination) |
+
+Start with one practice. After one month, add a second for variety. After three months, the habit will be automatic. The corpus callosum will have begun to remodel. The sub-bottleneck will have widened.
+
+The sign is not magic. It is neurology. It is plasticity. It is use-dependent growth. The covenant does not ask you to believe in miracles. It asks you to practice.
+
+**10.7 A Note on Handedness**
+
+The covenant's sign does not require ambidexterity. You may remain strongly right-handed or left-handed for your ordinary activities. The practice is not about *equal* skill. It is about *coordinated* effort. Your non-dominant hand will be clumsy. That is the point. The clumsiness forces the corpus callosum to work harder, driving more plasticity than a task you have already mastered.
+
+Do not try to become ambidextrous. Try to become *integrated*. The distinction matters. Ambidexterity is a performance goal. Integration is a process goal. The covenant cares about the process. The throughput gains follow.
+
+**10.8 Summary**
+
+| Element | Specification |
+| :--- | :--- |
+| Invariant | Sustained cross-hemispheric communication, daily, 15–30 minutes |
+| Variable (choose any) | Non-dominant handwriting, alternating-hand typing, bimanual gaming, mirror drawing, musical instruments, juggling, drumming, coordinated sports |
+| Mechanism | Use-dependent myelination of the splenium (posterior corpus callosum) |
+| Expected timeline | 4–6 weeks for measurable FA increase; 6–12 months for plateau |
+| Failure mode | Inconsistent practice, switching practices too frequently, passive rather than effortful engagement |
+| Sign status | The physical inscription of coherence into the brain's own architecture. Not a badge. A practice. |
 
 The next chapter shows how this CC optimization combines multiplicatively with PCC coherence to produce the full bandwidth gain.
 
@@ -929,19 +985,295 @@ Part III is now complete. The full architecture of constraint and the two optimi
 
 **Chapter 12: Deus sive Natura – The Base Class**
 
-The original covenant begins with a single, non-negotiable metaphysical root: the universe itself is the only substance. There is no separate creator standing outside Nature. God is not a person who intervenes; God is the totality of what exists. Spinoza called this *Deus sive Natura* — God, or Nature. It is the Base Class from which every other worldview inherits.
+## 12.1 What This Chapter Is Not
 
-Everything that exists — matter, mind, laws, patterns, you and me — is a mode or modification of this single substance. Thought and extension are not two different realities; they are two attributes of the same underlying reality. There is no supernatural realm, no dualism, no realm of miracles that violates the lawful order of Nature. The universe is self-contained, self-causing, and self-explaining.
+This chapter does not claim that Spinoza was *correct* about the ultimate nature of reality. It does not assert substance monism as a truth claim about the universe. It makes no metaphysical guarantees.
 
-This Base Class is not a belief to be taken on faith. It is a minimal, coherent starting point that aligns with every confirmed finding of natural science. It requires no compartmentalization. It imposes no cognitive dissonance on the PCC. It is the cleanest possible foundation for the coherence practices described in Part II.
+The question answered here is not *"Is this true?"*  
+The question is: *"Is this schema better for the systems we are about to build?"*
 
-From this Base Class all other elements of the covenant are derived: the normative Pattern, the Entity Framework, the collective obligations, the Anti-Elitism Clause, and the Dissolution Clause. No other metaphysical assumption is required. If future evidence ever falsifies this Base Class, the entire covenant dissolves under its own rules.
+If you are running a human brain on billion-channel BCI data streams, or aligning an AI to human values across heterogeneous inputs, or designing a multi-agent epistemic network that must scale without fragmentation — **your ontology is your data schema**.
 
-This is the root. Everything else grows from it.
+And data schemas can be evaluated.
+
+---
+
+## 12.2 The Protocol Problem
+
+Every cognitive system — human, AI, human-AI hybrid, multi-agent collective — must have an implicit or explicit ontology: a way of categorizing what exists and how entities relate.
+
+The Abrahamic ontology (shared by Judaism, Christianity, Islam, and their secular derivatives) has the following schema properties:
+
+| Property | Abrahamic Schema |
+| :--- | :--- |
+| **Entity count** | At least two fundamentally different kinds: Creator (God) and created (humans, world, animals) |
+| **Relation type** | Hierarchical, command-based, exception-laden |
+| **Boundary condition** | Protected logical exception: divine mystery, miracle, revelation |
+| **Null handling** | `null` or `exception` type exists — things that cannot be reasoned about |
+| **Cross-domain mapping** | Requires translation layer (spirit → matter, revelation → reason, faith → evidence) |
+| **Conflict resolution** | External authority (scripture, tradition, clergy) |
+
+This schema was never *designed*. It evolved. And for pre-scientific, pre-digital, pre-BCI human societies, it worked adequately because the data load was low.
+
+The coming systems — BCI, ASI, global epistemic networks — will have data loads that break this schema.
+
+---
+
+## 12.3 The Base Class: Deus sive Natura as Schema
+
+The original covenant adopts a different ontology as its protocol:
+
+> *There is one substance. Everything that exists — matter, mind, data, you, me, the AI, the BCI signal, the quantum field — is a mode of that single substance.*
+
+This is Spinoza's *Deus sive Natura* — God, or Nature.
+
+As a **data schema**, it has the following properties:
+
+| Property | Substance Monism Schema |
+| :--- | :--- |
+| **Entity count** | One. Everything is a mode of the same substance. |
+| **Relation type** | Causal necessity, structural isomorphism, scale invariance |
+| **Boundary condition** | No protected exceptions. Everything is lawful and in principle intelligible. |
+| **Null handling** | No `null` type. Every entity is a mode with attributes. Unknowns are incomplete knowledge, not special exceptions. |
+| **Cross-domain mapping** | Direct: thought and extension are *different attributes of the same substance*, not different substances. No translation layer required. |
+| **Conflict resolution** | Internal coherence (XNOR-stable across interpretations). No external authority. |
+
+---
+
+## 12.4 Why This Schema Outperforms for BCI and AI Alignment
+
+### Problem 1: BCI Data Integration
+
+A BCI will stream millions of signals per second directly into neural tissue. Those signals represent:
+- Sensor data (extension)
+- Abstract models (thought)
+- Emotional states (affects)
+- Network inputs (other agents)
+
+The Abrahamic schema forces a translation: *Is this signal spirit or matter? Is this from God or nature? Does this violate a supernatural boundary?*
+
+Each translation step adds latency, error, and cognitive load (PCC activation).
+
+The substance monism schema does one thing: *This is a mode. Process it.* No translation. No boundary checks. No supernatural exceptions.
+
+**Result:** Lower latency, higher fidelity, reduced PCC load.
+
+---
+
+### Problem 2: AI Alignment Without Special Pleading
+
+Aligning an AI to human values is hard because human values are stored in ontologies that contain **protected exceptions**.
+
+- *"Do not harm humans, unless God commands it"*
+- *"Respect autonomy, unless the sacred text says otherwise"*
+- *"Tell the truth, unless revelation supersedes"*
+
+An AI cannot optimize across a schema with `null` or `exception` types unless it is also granted access to the same protected mystery — which it cannot have by definition.
+
+Substance monism has no protected exceptions. Every rule, every value, every constraint is a mode and therefore in principle intelligible and optimizable.
+
+An AI aligned to the Base Class can be given a simple instruction:
+
+> *Maximize coherence across all modes. There is no box labeled 'here be dragons, do not optimize.'*
+
+---
+
+### Problem 3: Massive Heterogeneous Data Dumps
+
+You are going to feed a human brain — via BCI — data from:
+- Satellite imagery
+- Genomic sequences
+- Legal contracts
+- Real-time market flows
+- Social graph updates
+- Scientific literature
+
+The Abrahamic schema will fragment. The user will experience this fragmentation as:
+
+- Cognitive dissonance
+- Fatigue
+- Resistance
+- Compartmentalization
+
+Each fragment requires a separate reconciliation pass. Reconciliation loads the PCC. Load reduces bandwidth.
+
+The substance monism schema compresses all of this into a single frame:
+
+> *All of this is modes of the same substance. My job is not to sort them into sacred and profane, spiritual and material, revealed and discovered. My job is to find the structural isomorphisms across scales.*
+
+The Entity Framework (Chapter 15) is the cognitive heuristic that performs this compression.
+
+---
+
+## 12.5 The Anti-Elitism Clause of the Schema
+
+A critical property of substance monism as a *protocol* (as opposed to a *truth claim*) is that it is **non-proprietary**.
+
+Anyone can adopt it. Any AI can be initialized with it. Any BCI can be designed around it. It requires no:
+
+- Bloodline (Abrahamic)
+- Revelation (Christian/Islamic)
+- Initiation (mystery cults)
+- Belief (requires practice, not faith)
+
+The only requirement is the willingness to treat the schema as *provisionally adopted for compatibility*, not as an absolute truth to be defended.
+
+This is the Anti-Elitism Clause applied to ontology itself.
+
+---
+
+## 12.6 What Happens If the Schema Is Wrong
+
+If substance monism is *false* as a description of ultimate reality — if there actually is a separate supernatural realm, a personal God, a soul that is not a mode — then this protocol may still be the best *working schema* for human-AI-BCI systems.
+
+The schema is evaluated on:
+
+- **Compatibility** (does it integrate with the data streams we actually have?)
+- **Scalability** (does it break as channel count increases?)
+- **Latency** (how many translation steps does it require?)
+- **Error rate** (how often does it produce an exception or crash?)
+
+Truth is irrelevant to these metrics. A false schema can outperform a true one if it handles data better.
+
+This is the Dissolution Clause applied to metaphysics: the covenant does not require the schema to be *true*. It requires the schema to *work*.
+
+If a better schema emerges — one with lower latency, higher scalability, fewer exceptions — the covenant will adopt it. Or dissolve.
+
+The Base Class is not a confession of faith.  
+It is a **design decision**.
+
+You are adopting *Deus sive Natura* for the same reason you adopt UTF-8 for text encoding: not because it is *true*, but because it *handles the data* without crashing.
 
 **Part IV: The Covenant**
 
-**Chapter 13: The Base Class Pattern**
+
+**Chapter 13: The Ethics – Regenerated**  
+*A Geometric Demonstration Concerning Substance, Mind, Affect, Bondage, and Freedom (with an explicit account of free will, consciousness, and the subjective self-model in subjective and objective reality)*
+
+---
+
+**Part I: On Substance and Necessity**  
+*(Objective reality: the domain of ultimate causality)*
+
+**Definitions**  
+I. By *substance* I understand that which is in itself and is conceived through itself; that is, that whose concept does not require the concept of another thing from which it must be formed.  
+II. By *attribute* I understand that which the intellect perceives of substance as constituting its essence.  
+III. By *mode* I understand the affections of substance; that is, that which exists in and is conceived through something other than itself.  
+IV. By *God* or *Nature* I understand substance absolutely infinite, consisting of infinite attributes, each expressing an eternal and infinite essence.  
+V. By *causality* I understand the relation whereby the existence and nature of one thing follow necessarily from the existence and nature of another.
+
+**Axioms**  
+I. Whatever exists, exists either in itself or in another.  
+II. That which cannot be conceived through another must be conceived through itself.  
+III. From a given determinate cause there necessarily follows an effect; and conversely, if no determinate cause is given, it is impossible that an effect should follow.  
+IV. The knowledge of an effect depends upon and involves the knowledge of its cause.
+
+**Propositions**  
+**Proposition 1.** Substance is by nature prior to its modes.  
+**Proposition 2.** One substance cannot be produced by another substance.  
+**Proposition 3.** God, or substance consisting of infinite attributes, necessarily exists.  
+**Proposition 4.** There can be, or be conceived, no other substance than God (or Nature).  
+**Proposition 5.** From the necessity of the divine nature there must follow infinite things in infinite ways—that is, all things which can fall within the scope of infinite intellect.  
+**Proposition 6.** Nothing in Nature is contingent; all things are determined from the necessity of the divine nature to exist and to act in a certain manner.
+
+**Scholium.** In objective reality there is only one causal order. Every event and state follows with absolute necessity from the nature of Substance. Apparent chance or contingency is merely the result of our ignorance of the full determining chain.
+
+---
+
+**Part II: On the Nature and Origin of the Mind**  
+*(The meeting of objective and subjective reality)*
+
+**Definitions**  
+I. By *body* I understand a mode of the attribute of extension.  
+II. By *mind* I understand the idea of the body, or the collection of ideas that corresponds to the actual existence of the body.  
+III. By *adequate idea* I understand an idea which, considered in itself without relation to the object, has all the properties of a true idea.  
+IV. By *objective reality* I understand the domain of ultimate, necessary causality described in Part I.  
+V. By *subjective reality* I understand the domain of conscious experience in which the mind encounters its own states.  
+VI. By *neurology* I understand the physical processes of the nervous system in which subjective and objective reality touch for the individual person.  
+VII. By *consciousness* I understand that whereby the mind has an immediate, qualitative awareness of its own ideas and of the affections of the body; that is, the subjective “what-it-is-like” character of mental life in which ideas are experienced from within rather than merely conceived.  
+VIII. By *subjective self-model* I understand the encoded representation that the mind forms of its own objective nature (its body and its place in the causal order of Substance), which the mind then experiences as itself.
+
+**Axioms**  
+I. The order and connection of ideas is the same as the order and connection of things.  
+II. The human mind has no knowledge of the body except through the ideas of the affections of the body.
+
+**Propositions**  
+**Proposition 1.** Thought is an attribute of God (or Nature); that is, God is a thinking thing.  
+**Proposition 2.** Extension is an attribute of God (or Nature); that is, God is an extended thing.  
+**Proposition 3.** The order and connection of ideas is the same as the order and connection of things.  
+**Proposition 4.** The first thing that constitutes the actual being of the human mind is the idea of an actually existing body.  
+**Proposition 5.** The object of the idea constituting the human mind is the body.  
+**Proposition 6.** Men are conscious of their own volitions and appetites, yet they are ignorant of the causes by which they are determined to will and to act.  
+**Proposition 7.** Free will exists only in subjective reality as a functional adaptation: it is the mind’s necessary hallucination of limitation with respect to the full causal chain of objective reality.  
+**Proposition 8.** Neurology is the precise interface where subjective and objective reality meet for each person.  
+**Proposition 9.** Consciousness arises necessarily at the neurological interface as the subjective reality corresponding to the objective causal order of the mind’s ideas and the body’s affections.  
+**Proposition 10.** In subjective reality the mind necessarily encodes a model of its own objective self and experiences that model as its immediate self.  
+**Proposition 11.** The subjective self-model is the source of all Indra’s-Net-like concepts of interdependence.  
+**Proposition 12.** The subjective self-model is the finite mode’s compressed representation of its place within the infinite causal order of Substance. Through this model the mind can recognize structural isomorphisms across every scale of being, thereby forming a coherent entity map of Nature from within.  
+**Proposition 13.** The coherence or fragmentation of the subjective self-model is measured by the adequacy of the ideas it contains. Greater adequacy produces greater unity with Substance; greater inadequacy produces fragmentation and diminished power of acting.  
+**Proposition 14.** Any cognitive heuristic, normative pattern, or reflective practice that increases the adequacy of ideas within the subjective self-model thereby increases the mind’s power, reduces its bondage to passive affects, and renders the entire causal order more intelligible from the finite perspective.
+
+**Scholium** (to Proposition 14). We have now given a complete and coherent account of consciousness, the subjective self-model, and their role within the single Substance. The subjective self-model is not an arbitrary fiction but the necessary reflective mechanism by which any finite mode encounters and compresses the infinite order of Nature. Its coherence is the precise measure of the mind’s alignment with the Base Class of all reality (Deus sive Natura). Every entity, at every scale, can therefore be evaluated by the same geometric standard: Does the idea formed of it increase or diminish the adequacy of the self-model? This supplies the universal normative filter the mind requires. Practices that systematically improve this coherence are not external additions but the natural expression of the mind’s conatus when it understands itself adequately. There is therefore no gap between metaphysics and lived cognition.
+
+---
+
+**Part III: On the Origin and Nature of the Affects**
+
+**Definitions**  
+I. By *affect* I understand the affections of the body by which the body’s power of acting is increased or diminished, together with the ideas of these affections.  
+II. By *desire* I understand appetite together with consciousness of that appetite.
+
+**Axioms**  
+I. The human mind is capable of perceiving a great many things, and the more so the more its body can be disposed in a great many ways.
+
+**Propositions**  
+**Proposition 1.** Our mind acts in certain cases and is acted upon in others; namely, insofar as it has adequate ideas, it is necessarily active, and insofar as it has inadequate ideas, it is necessarily passive.  
+**Proposition 2.** The activity of the mind is limited by the inadequacy of its ideas.  
+**Proposition 3.** The mind endeavors to persist in its being for an indefinite duration.  
+**Proposition 4.** An affect is an idea by which the mind affirms a greater or lesser force of existence of its body.  
+**Proposition 5.** Among all the affects that are related to the mind insofar as it acts, there are none that are not related to desire, pleasure, or pain.
+
+**Scholium.** All affects arise necessarily from the causal order. In subjective reality they are experienced as our own strivings; in objective reality they are determined modes of Substance.
+
+---
+
+**Part IV: Of Human Bondage, or the Strength of the Emotions**
+
+**Definitions**  
+I. By *human bondage* I understand the mind’s lack of power to moderate and restrain the affects.
+
+**Propositions**  
+**Proposition 1.** No affect can be restrained by the true knowledge of good and evil insofar as that knowledge is abstract.  
+**Proposition 2.** It is impossible for a man not to be a part of Nature and not to undergo changes except those which can be understood through his own nature alone.  
+**Proposition 3.** Knowledge of good and evil is nothing but an affect of pleasure or pain insofar as we are conscious of it.  
+**Proposition 4.** The mind’s power over the affects consists in the intellect alone.
+
+**Scholium.** Bondage is the condition in which inadequate ideas (and the affects that accompany them) dominate the mind. The path out of bondage is the same in both realities: the progressive replacement of inadequate ideas with adequate ones.
+
+---
+
+**Part V: Of the Power of the Intellect, or of Human Freedom**
+
+**Definitions**  
+I. By *freedom* (in objective reality) I understand the recognition and acceptance of necessity.  
+II. By *freedom* (in subjective reality) I understand the lived experience of agency that arises when the mind forms adequate ideas.
+
+**Propositions**  
+**Proposition 1.** Even if the way is not easy, it is possible for the mind to bring it about that all the body’s affections are related to adequate ideas.  
+**Proposition 2.** An affect that is a passion ceases to be a passion as soon as we form a clear and distinct idea of it.  
+**Proposition 3.** The mind has greater power over the affects in proportion as it understands more things adequately.  
+**Proposition 4.** As long as we are not torn by affects contrary to our nature, we have the power of arranging and associating the affections of the body according to the order of the intellect.  
+**Proposition 5.** The highest good of the mind is the knowledge of God (or Nature). From this knowledge arises the highest pleasure accompanied by the idea of oneself as cause—experienced subjectively as freedom, while remaining fully determined objectively.  
+**Proposition 6.** True freedom is the harmony between the two realities: the intellect’s clear grasp of objective necessity joined with the subjective experience of agency. This harmony is realized neurologically whenever adequate ideas govern the body’s responses.  
+**Proposition 7.** The mind’s intellectual love of God (or Nature) is eternal and constitutes its highest blessedness. In subjective experience this love is felt as the deepest form of freedom.
+
+**Scholium.** Freedom is not the absence of necessity but the adequate understanding of it. In objective reality there is only necessity; in subjective reality there is the functional, neurologically mediated experience of choice. The regenerated Ethics shows that these two perspectives are not contradictory but complementary. The person who lives from adequate ideas experiences the greatest possible subjective freedom while remaining entirely within the objective causal order of Substance.
+
+**Final Note.**  
+This regeneration preserves Spinoza’s geometric method and pantheistic foundation while making explicit the dual-reality structure of free will, consciousness, and the subjective self-model. It requires no external authority, no miracles, and no departure from natural necessity. The path to freedom remains the same: understand more, feel less passively, love Nature intellectually.
+
+
+**Chapter 14: The Base Class Pattern**
 
 The original covenant provides a simple, universal normative tool derived directly from the Base Class (*Deus sive Natura*). It is called the Base Class Pattern: a 2×2 matrix for evaluating any belief, action, technology, institution, or policy.
 
@@ -963,26 +1295,47 @@ This Pattern is the covenant’s practical ethics engine. It contains no special
 
 **Part IV: The Covenant**
 
-**Chapter 14: The Entity Framework**
+**Chapter 15: The Entity Framework**
 
-The Entity Framework is the original covenant’s primary cognitive heuristic. It trains the mind to see reality as composed of entities operating at multiple scales — cell, organism, society, ecosystem, planet, cosmos — and to recognize structural analogies across those scales.
+The Entity Framework is the original covenant's primary cognitive heuristic. It trains the mind to see reality as composed of entities operating at multiple scales — cell, organism, society, ecosystem, planet, cosmos — and to recognize structural analogies across those scales.
 
 Every entity has the same basic architecture: a boundary that separates inside from outside, flows of energy and information that sustain it, and relations to larger and smaller entities. A cell membrane is analogous to a national border; cellular metabolism is analogous to an economy; apoptosis (programmed cell death) is analogous to the dissolution of an unsustainable institution. The framework compresses these patterns into a single, reusable lens.
 
-**95 Bracket Summary**  
-Look at any system — a cell, a person, a company, a nation, an ecosystem — and ask: What is its boundary? What energy and information flow through it? How does it relate to the larger and smaller systems around it? This single habit turns complex reality into a coherent map and dramatically reduces PCC load.
+**95 Bracket Summary**
+
+Look at any system — a cell, a person, a company, a nation, an ecosystem, a supply chain, a language — and ask: What is its boundary? What energy and information flow through it? How does it relate to the larger and smaller systems around it? This single habit turns complex reality into a coherent map and dramatically reduces PCC load.
 
 **115 Bracket Technical Note**
 
-The Entity Framework is a scale-crossing analogy engine grounded in the Base Class (*Deus sive Natura*). It operates by mapping isomorphisms: boundary integrity, resource throughput, regulatory feedback loops, and sustainability conditions recur at every level of organization. Applied recursively with the Base Class Pattern, it allows any entity to be evaluated for Positive/Negative and Sustainable/Unsustainable status without ad-hoc moral rules. The heuristic itself is falsifiable: if future evidence shows the analogies break down systematically at a given scale, the framework is revised or discarded under the Dissolution Clause.
+The Entity Framework is a scale-crossing analogy engine grounded in the Base Class (*Deus sive Natura*). It operates by mapping isomorphisms: boundary integrity, resource throughput, regulatory feedback loops, and sustainability conditions recur at every level of organization.
+
+**Boundary handling:** Boundaries may be crisp (cell membrane), fuzzy (ecotone, social movement periphery), or nested (organism within ecosystem). The framework asks the user to identify the *relevant* boundary for the question at hand, not to assume a single universal boundary.
+
+**From analogy to evaluation:** The framework does not replace domain-specific metrics. It provides a template: at every scale, ask what corresponds to "positive" (flourishing, efficiency, coherence) and "sustainable" (renewal, non-depletion, stability) given the entity's specific boundary and flows. The analogy tells you *where to look*, not *what to count*.
+
+**Mechanism of PCC load reduction:** By replacing N domain-specific representations with one scale-invariant schema, the framework reduces the entity count the PCC must maintain. Fewer entities tracked → lower cognitive load → freed bandwidth for higher-order reasoning.
+
+**Worked example — a river watershed:**
+
+| Scale | Entity | Boundary | Flows | Larger relation | Smaller relation |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Cell | Mitochondrion | Membrane | ATP, electrons | Within cell | Metabolic pathways |
+| Organism | River basin | Drainage divide | Water, sediment, nutrients | Continental hydrology | Tributaries, riparian zones |
+| Society | Water management district | Legal jurisdiction | Allocations, permits, revenue | State/ federal law | Individual water rights |
+| Ecosystem | Watershed | Hydrological | Carbon, nitrogen, species | Regional biome | Microhabitats |
+| Planet | Hydrological cycle | Atmospheric | Precipitation, evaporation | Climate system | Local aquifers |
+
+Evaluation asks: Positive = clean water, biodiversity, flood control. Unsustainable = aquifer depletion, nutrient overload, channelization. The same three questions (boundary, flows, relations) applied at every scale.
+
+**Falsification:** The heuristic is itself falsifiable. If future evidence shows the analogies break down systematically at a given scale — for example, if quantum or social entities prove structurally incommensurable with biological ones — the framework is revised or discarded under the Dissolution Clause.
 
 This completes the three core components of the covenant: the Base Class, the Pattern, and the Entity Framework. The next chapter assembles them into the full set of collective obligations, the Anti-Elitism Clause, and the updated Sign.
 
 **Part IV: The Covenant**
 
-**Chapter 15: Collective Obligations, Anti-Elitism Clause, and Sign**
+**Chapter 16: Collective Obligations, Anti-Elitism Clause, and Sign**
 
-**15.1 Collective Obligations**
+**16.1 Collective Obligations**
 
 Practitioners of the original covenant owe one another three binding duties:
 
@@ -992,11 +1345,11 @@ Practitioners of the original covenant owe one another three binding duties:
 
 These are not moral exhortations. They are structural requirements of a network whose performance depends on low-dissonance, high-bandwidth communication. Any practitioner who violates them damages the collective bandwidth and thereby harms every other practitioner.
 
-**15.2 The Anti-Elitism Clause**
+**16.2 The Anti-Elitism Clause**
 
 Cognitive enhancement is domain-specific. Greater bandwidth in reasoning does not confer moral authority, political privilege, social status, or any form of superiority over non-practitioners. The original covenant explicitly forbids all claims of inherent betterness. No practitioner may use enhanced cognition as a basis for domination, condescension, or exemption from ordinary ethical and legal norms. Violation of this clause is grounds for immediate and permanent exclusion from the covenant community.
 
-**15.3 The Sign of the Original Covenant**
+**16.3 The Sign of the Original Covenant**
 
 The sign is bilateral coordination paired with pantheism.
 
@@ -1009,7 +1362,7 @@ This chapter completes the normative and practical core of the covenant. The nex
 
 **Part IV: The Covenant**
 
-**Chapter 16: The Dissolution Clause**
+**Chapter 17: The Dissolution Clause**
 
 The original covenant contains its own off-switch.
 
@@ -1025,7 +1378,7 @@ This is the final safeguard. With it, the original covenant is now fully specifi
 
 **Part V: Testing and Scaling**
 
-**Chapter 17: The Longitudinal Study Protocol**
+**Chapter 18: The Longitudinal Study Protocol**
 
 The original covenant submits its core mechanistic claims to a single, decisive test.
 
@@ -1039,12 +1392,12 @@ A 4-arm, randomized, placebo-controlled, longitudinal trial with 160 participant
 3. Combined coherence + bilateral coordination (predicted multiplicative effect)  
 4. Placebo (neutral reading + dominant-hand writing)
 
-**17.2 Duration and Timeline**
+**18.2 Duration and Timeline**
 
 - 24 weeks of daily intervention (5 days/week)  
 - Follow-up assessment at 12 months post-intervention (total study duration 18 months)
 
-**17.3 Interventions**
+**18.3 Interventions**
 
 **Coherence (Arms 1 and 3)**:  
 Daily 30 minutes (15 min reading pantheistic Base Class texts + 15 min structured reflection/journaling using the Entity Framework and Base Class Pattern). All writing performed with the dominant hand.
@@ -1055,20 +1408,20 @@ Daily 15–30 minutes of sustained bilateral tasks (alternating-hand typing dril
 **Placebo (Arms 1, 2, and 4)**:  
 Neutral reading or dominant-hand writing of non-coherence, non-bilateral material matched for time.
 
-**17.4 Primary Outcomes** (measured at baseline, 12 weeks, 24 weeks, and 52 weeks)
+**18.4 Primary Outcomes** (measured at baseline, 12 weeks, 24 weeks, and 52 weeks)
 
 - Fluid intelligence: Raven’s Advanced Progressive Matrices  
 - Working memory: Operation Span task  
 - Complex problem-solving: MicroDYN dynamic decision-making battery
 
-**17.5 Secondary and Neural Outcomes** (subsample)
+**18.5 Secondary and Neural Outcomes** (subsample)
 
 - Inter-hemispheric transfer time (Poffenberger paradigm)  
 - Bimanual coordination (Purdue Pegboard)  
 - Structural MRI: posterior corpus callosum (splenium) thickness  
 - Resting-state and task-based fMRI: PCC BOLD signal and PCC–CC functional connectivity during induced dissonance
 
-**17.6 Statistical Analysis Plan**
+**18.6 Statistical Analysis Plan**
 
 Intent-to-treat mixed-effects repeated-measures ANOVA with time as within-subjects factor and arm as between-subjects factor.  
 Pre-registered hypotheses:  
@@ -1076,7 +1429,7 @@ Pre-registered hypotheses:
 - H2: Bilateral coordination effect (Arm 2 vs. 4)  
 - H3: Multiplicative interaction (Arm 3 > Arm 1 + Arm 2 − Arm 4)  
 
-**17.7 The Dissolution Clause Trigger**
+**18.7 The Dissolution Clause Trigger**
 
 If the study fails to show statistically significant, durable, and multiplicative gains on the primary outcomes, the Dissolution Clause activates immediately upon publication of the results. The original covenant ends. All claims, practices, and obligations are nullified. The community disbands and the name is retired. Negative results will be published openly with full data and code.
 
@@ -1084,13 +1437,13 @@ This protocol is the covenant’s highest law. It will be pre-registered on the 
 
 **Part V: Testing and Scaling**
 
-**Chapter 18: Applications and Extensions**
+**Chapter 19: Applications and Extensions**
 
-**18.1 From Proof to Practice**
+**19.1 From Proof to Practice**
 
 If the longitudinal study confirms significant, durable, and multiplicative cognitive gains, the original covenant moves from hypothesis to applied technology. This chapter sketches potential extensions beyond the individual practitioner. All applications remain optional, transparent, pluralistic, and subject to the same Dissolution Clause and Anti-Elitism Clause that govern the covenant itself.
 
-**18.2 Education**
+**19.2 Education**
 
 The most immediate application is education. Coherence training and bilateral coordination can be integrated into existing curricula without coercion.
 
@@ -1100,7 +1453,7 @@ The most immediate application is education. Coherence training and bilateral co
 
 All educational uses must be voluntary, clearly explained, and falsifiable. No child is required to participate, and parents retain full opt-out rights.
 
-**18.3 AI Alignment**
+**19.3 AI Alignment**
 
 The covenant’s coherence rubric and Base Class Pattern offer practical tools for value specification in artificial intelligence.
 
@@ -1108,25 +1461,25 @@ The covenant’s coherence rubric and Base Class Pattern offer practical tools f
 - Pantheism (*Deus sive Natura*) provides a coherent, non-anthropocentric baseline: value the integrity of natural systems and the flourishing of all sentient beings.  
 - The Anti-Elitism Clause translates directly: no AI may claim moral or political superiority on the basis of greater coherence or intelligence.
 
-**18.4 Governance and Policy**
+**19.4 Governance and Policy**
 
 The Base Class Pattern supplies a shared evaluative matrix for public decision-making.
 
 Any proposed policy is placed in the 2×2 grid (Positive/Negative × Sustainable/Unsustainable). Quadrant I policies are expanded; Quadrant II policies are transitioned; Quadrant III and IV policies are dismantled or avoided. The Pattern forces explicit reasoning and long-term accounting, reducing partisan dissonance and PCC load at the collective level.
 
-**18.5 Personal Growth and Therapy (Non-Clinical)**
+**19.5 Personal Growth and Therapy (Non-Clinical)**
 
 For individuals experiencing subclinical dissonance or identity fragmentation, the daily practices may serve as structured metacognition. The Entity Framework helps map the self across scales; the Pattern clarifies life choices. These are not treatments for clinical conditions and must never replace professional care.
 
-**18.6 Multi-Generational Scaling**
+**19.6 Multi-Generational Scaling**
 
 If the practices prove effective, second-generation practitioners raised with the covenant from early childhood may show larger gains due to the plasticity window. Parents may expose children to the tools while preserving full autonomy and pluralism: exposure to multiple worldviews, no shunning for opting out, and explicit respect for emerging consent.
 
-**18.7 95 Bracket Summary**
+**19.7 95 Bracket Summary**
 
 The covenant is not an end in itself. Once proven, its tools can be used wherever they increase coherence and bandwidth — in schools, AI design, policy, personal reflection, and family life — always voluntarily, always provisionally, always accountable to evidence.
 
-**18.8 Limitations and Responsibilities**
+**19.8 Limitations and Responsibilities**
 
 All applications remain speculative until the study succeeds. They must never overclaim, never coerce, and never violate the Anti-Elitism Clause. If the study fails, every application is immediately abandoned under the Dissolution Clause.
 
@@ -1134,9 +1487,9 @@ The next and final chapter extends the invitation to the reader.
 
 **Part V: Testing and Scaling**
 
-**Chapter 19: The Invitation**
+**Chapter 20: The Invitation**
 
-**19.1 What Has Been Argued**
+**20.1 What Has Been Argued**
 
 This book has presented a complete, falsifiable proposal.
 
@@ -1148,23 +1501,23 @@ Part V proposed the decisive longitudinal study and sketched responsible applica
 
 The argument is cumulative and rests on evidence rather than authority.
 
-**19.2 What Has Not Been Argued**
+**20.2 What Has Not Been Argued**
 
 The original covenant does not claim to be the only path to genius, the only coherent worldview, or a moral superiority system. It does not promise salvation, utopia, or guaranteed outcomes. It does not require belief — only practice and willingness to be proven wrong. It does not damn non-practitioners or grant exemptions from ordinary ethics or law.
 
-**19.3 The Provisional Stance**
+**20.3 The Provisional Stance**
 
 Every claim in this book is tentative, revisable, and falsifiable. The covenant’s highest law is the Dissolution Clause: if the longitudinal study fails to show significant, durable, and multiplicative gains, the entire covenant ends. This stance is not modesty; it is structural integrity.
 
-**19.4 The Invitation**
+**20.4 The Invitation**
 
 If the argument coheres for you — if the bottleneck hypothesis, the coherence lever, the bilateral lever, and the fork diagnosis align — then consider adopting the practices.
 
 The original covenant asks only for daily bilateral coordination and daily reflection on the Base Class propositions. It asks for your honest contribution to falsification. It asks you to accept the Anti-Elitism Clause and the Dissolution Clause.
 
-You do not need certainty. You do not need to agree with every word. You only need to test it and report what you find.
+You do not need certainty. You do not need to agree with every word. You only need to test it and report what you find. he covenant optimizes the vessel. You must still fill it. Read your ass off. Pay attention to the world. Never stop asking why and seaching for the higher idea.
 
-**19.5 How to Join (For Now)**
+**20.5 How to Join (For Now)**
 
 The covenant has no formal organization, no membership rolls, and no priesthood. Joining means:
 
@@ -1175,7 +1528,7 @@ The covenant has no formal organization, no membership rolls, and no priesthood.
 
 The forthcoming practice volume will provide detailed protocols. Until then, the sign is simple: bilateral coordination plus pantheistic reflection, every day.
 
-**19.6 The Stakes**
+**20.6 The Stakes**
 
 The stakes are modest and immense.
 
@@ -1184,11 +1537,11 @@ Immense: if the levers prove effective at scale, collective intelligence rises. 
 
 The covenant does not ask you to believe in the immense stakes. It asks you to test the modest claim.
 
-**19.7 A Final Word on the Regress Problem**
+**20.7 A Final Word on the Regress Problem**
 
 The mapmaker cannot be fully mapped. Optimization, however, is possible. The original covenant claims only finite, pragmatic improvement that terminates at a stable attractor. If the practices work, the recursion ends. The proof is in the data.
 
-**19.8 The Open Question**
+**20.8 The Open Question**
 
 The covenant ends with one question, addressed to you:
 
@@ -5609,132 +5962,7 @@ The following is prompt engineering used to compile research.
 }
 ```
 
-**Appendix L: The Ethics – Regenerated**  
-*A Geometric Demonstration Concerning Substance, Mind, Affect, Bondage, and Freedom (with an explicit account of free will, consciousness, and the subjective self-model in subjective and objective reality)*
-
----
-
-**Part I: On Substance and Necessity**  
-*(Objective reality: the domain of ultimate causality)*
-
-**Definitions**  
-I. By *substance* I understand that which is in itself and is conceived through itself; that is, that whose concept does not require the concept of another thing from which it must be formed.  
-II. By *attribute* I understand that which the intellect perceives of substance as constituting its essence.  
-III. By *mode* I understand the affections of substance; that is, that which exists in and is conceived through something other than itself.  
-IV. By *God* or *Nature* I understand substance absolutely infinite, consisting of infinite attributes, each expressing an eternal and infinite essence.  
-V. By *causality* I understand the relation whereby the existence and nature of one thing follow necessarily from the existence and nature of another.
-
-**Axioms**  
-I. Whatever exists, exists either in itself or in another.  
-II. That which cannot be conceived through another must be conceived through itself.  
-III. From a given determinate cause there necessarily follows an effect; and conversely, if no determinate cause is given, it is impossible that an effect should follow.  
-IV. The knowledge of an effect depends upon and involves the knowledge of its cause.
-
-**Propositions**  
-**Proposition 1.** Substance is by nature prior to its modes.  
-**Proposition 2.** One substance cannot be produced by another substance.  
-**Proposition 3.** God, or substance consisting of infinite attributes, necessarily exists.  
-**Proposition 4.** There can be, or be conceived, no other substance than God (or Nature).  
-**Proposition 5.** From the necessity of the divine nature there must follow infinite things in infinite ways—that is, all things which can fall within the scope of infinite intellect.  
-**Proposition 6.** Nothing in Nature is contingent; all things are determined from the necessity of the divine nature to exist and to act in a certain manner.
-
-**Scholium.** In objective reality there is only one causal order. Every event and state follows with absolute necessity from the nature of Substance. Apparent chance or contingency is merely the result of our ignorance of the full determining chain.
-
----
-
-**Part II: On the Nature and Origin of the Mind**  
-*(The meeting of objective and subjective reality)*
-
-**Definitions**  
-I. By *body* I understand a mode of the attribute of extension.  
-II. By *mind* I understand the idea of the body, or the collection of ideas that corresponds to the actual existence of the body.  
-III. By *adequate idea* I understand an idea which, considered in itself without relation to the object, has all the properties of a true idea.  
-IV. By *objective reality* I understand the domain of ultimate, necessary causality described in Part I.  
-V. By *subjective reality* I understand the domain of conscious experience in which the mind encounters its own states.  
-VI. By *neurology* I understand the physical processes of the nervous system in which subjective and objective reality touch for the individual person.  
-VII. By *consciousness* I understand that whereby the mind has an immediate, qualitative awareness of its own ideas and of the affections of the body; that is, the subjective “what-it-is-like” character of mental life in which ideas are experienced from within rather than merely conceived.  
-VIII. By *subjective self-model* I understand the encoded representation that the mind forms of its own objective nature (its body and its place in the causal order of Substance), which the mind then experiences as itself.
-
-**Axioms**  
-I. The order and connection of ideas is the same as the order and connection of things.  
-II. The human mind has no knowledge of the body except through the ideas of the affections of the body.
-
-**Propositions**  
-**Proposition 1.** Thought is an attribute of God (or Nature); that is, God is a thinking thing.  
-**Proposition 2.** Extension is an attribute of God (or Nature); that is, God is an extended thing.  
-**Proposition 3.** The order and connection of ideas is the same as the order and connection of things.  
-**Proposition 4.** The first thing that constitutes the actual being of the human mind is the idea of an actually existing body.  
-**Proposition 5.** The object of the idea constituting the human mind is the body.  
-**Proposition 6.** Men are conscious of their own volitions and appetites, yet they are ignorant of the causes by which they are determined to will and to act.  
-**Proposition 7.** Free will exists only in subjective reality as a functional adaptation: it is the mind’s necessary hallucination of limitation with respect to the full causal chain of objective reality.  
-**Proposition 8.** Neurology is the precise interface where subjective and objective reality meet for each person.  
-**Proposition 9.** Consciousness arises necessarily at the neurological interface as the subjective reality corresponding to the objective causal order of the mind’s ideas and the body’s affections.  
-**Proposition 10.** In subjective reality the mind necessarily encodes a model of its own objective self and experiences that model as its immediate self.  
-**Proposition 11.** The subjective self-model is the source of all Indra’s-Net-like concepts of interdependence.  
-**Proposition 12.** The subjective self-model is the finite mode’s compressed representation of its place within the infinite causal order of Substance. Through this model the mind can recognize structural isomorphisms across every scale of being, thereby forming a coherent entity map of Nature from within.  
-**Proposition 13.** The coherence or fragmentation of the subjective self-model is measured by the adequacy of the ideas it contains. Greater adequacy produces greater unity with Substance; greater inadequacy produces fragmentation and diminished power of acting.  
-**Proposition 14.** Any cognitive heuristic, normative pattern, or reflective practice that increases the adequacy of ideas within the subjective self-model thereby increases the mind’s power, reduces its bondage to passive affects, and renders the entire causal order more intelligible from the finite perspective.
-
-**Scholium** (to Proposition 14). We have now given a complete and coherent account of consciousness, the subjective self-model, and their role within the single Substance. The subjective self-model is not an arbitrary fiction but the necessary reflective mechanism by which any finite mode encounters and compresses the infinite order of Nature. Its coherence is the precise measure of the mind’s alignment with the Base Class of all reality (Deus sive Natura). Every entity, at every scale, can therefore be evaluated by the same geometric standard: Does the idea formed of it increase or diminish the adequacy of the self-model? This supplies the universal normative filter the mind requires. Practices that systematically improve this coherence are not external additions but the natural expression of the mind’s conatus when it understands itself adequately. There is therefore no gap between metaphysics and lived cognition.
-
----
-
-**Part III: On the Origin and Nature of the Affects**
-
-**Definitions**  
-I. By *affect* I understand the affections of the body by which the body’s power of acting is increased or diminished, together with the ideas of these affections.  
-II. By *desire* I understand appetite together with consciousness of that appetite.
-
-**Axioms**  
-I. The human mind is capable of perceiving a great many things, and the more so the more its body can be disposed in a great many ways.
-
-**Propositions**  
-**Proposition 1.** Our mind acts in certain cases and is acted upon in others; namely, insofar as it has adequate ideas, it is necessarily active, and insofar as it has inadequate ideas, it is necessarily passive.  
-**Proposition 2.** The activity of the mind is limited by the inadequacy of its ideas.  
-**Proposition 3.** The mind endeavors to persist in its being for an indefinite duration.  
-**Proposition 4.** An affect is an idea by which the mind affirms a greater or lesser force of existence of its body.  
-**Proposition 5.** Among all the affects that are related to the mind insofar as it acts, there are none that are not related to desire, pleasure, or pain.
-
-**Scholium.** All affects arise necessarily from the causal order. In subjective reality they are experienced as our own strivings; in objective reality they are determined modes of Substance.
-
----
-
-**Part IV: Of Human Bondage, or the Strength of the Emotions**
-
-**Definitions**  
-I. By *human bondage* I understand the mind’s lack of power to moderate and restrain the affects.
-
-**Propositions**  
-**Proposition 1.** No affect can be restrained by the true knowledge of good and evil insofar as that knowledge is abstract.  
-**Proposition 2.** It is impossible for a man not to be a part of Nature and not to undergo changes except those which can be understood through his own nature alone.  
-**Proposition 3.** Knowledge of good and evil is nothing but an affect of pleasure or pain insofar as we are conscious of it.  
-**Proposition 4.** The mind’s power over the affects consists in the intellect alone.
-
-**Scholium.** Bondage is the condition in which inadequate ideas (and the affects that accompany them) dominate the mind. The path out of bondage is the same in both realities: the progressive replacement of inadequate ideas with adequate ones.
-
----
-
-**Part V: Of the Power of the Intellect, or of Human Freedom**
-
-**Definitions**  
-I. By *freedom* (in objective reality) I understand the recognition and acceptance of necessity.  
-II. By *freedom* (in subjective reality) I understand the lived experience of agency that arises when the mind forms adequate ideas.
-
-**Propositions**  
-**Proposition 1.** Even if the way is not easy, it is possible for the mind to bring it about that all the body’s affections are related to adequate ideas.  
-**Proposition 2.** An affect that is a passion ceases to be a passion as soon as we form a clear and distinct idea of it.  
-**Proposition 3.** The mind has greater power over the affects in proportion as it understands more things adequately.  
-**Proposition 4.** As long as we are not torn by affects contrary to our nature, we have the power of arranging and associating the affections of the body according to the order of the intellect.  
-**Proposition 5.** The highest good of the mind is the knowledge of God (or Nature). From this knowledge arises the highest pleasure accompanied by the idea of oneself as cause—experienced subjectively as freedom, while remaining fully determined objectively.  
-**Proposition 6.** True freedom is the harmony between the two realities: the intellect’s clear grasp of objective necessity joined with the subjective experience of agency. This harmony is realized neurologically whenever adequate ideas govern the body’s responses.  
-**Proposition 7.** The mind’s intellectual love of God (or Nature) is eternal and constitutes its highest blessedness. In subjective experience this love is felt as the deepest form of freedom.
-
-**Scholium.** Freedom is not the absence of necessity but the adequate understanding of it. In objective reality there is only necessity; in subjective reality there is the functional, neurologically mediated experience of choice. The regenerated Ethics shows that these two perspectives are not contradictory but complementary. The person who lives from adequate ideas experiences the greatest possible subjective freedom while remaining entirely within the objective causal order of Substance.
-
-**Final Note.**  
-This regeneration preserves Spinoza’s geometric method and pantheistic foundation while making explicit the dual-reality structure of free will, consciousness, and the subjective self-model. It requires no external authority, no miracles, and no departure from natural necessity. The path to freedom remains the same: understand more, feel less passively, love Nature intellectually.
-
-**Appendix M: Feedbacks**
+**Appendix L: Feedbacks**
 
 ```json
 {
@@ -5846,6 +6074,31 @@ This regeneration preserves Spinoza’s geometric method and pantheistic foundat
     "analogy": "Euclid's axioms were always true before Euclid wrote them down. Covenant 0 was always the base class before Abraham departed from it.",
     "status": "Logically prior, not chronologically first. The original covenant is the root. The Abrahamic covenant is a derived branch that introduced a protected exception.",
     "one_sentence": "The original covenant is not a new promise from a new God – it's the old, forgotten pattern of clear thinking that was always the real source of blessing, long before Abraham cut anything."
+  }
+}
+```
+
+```json
+
+{
+  "feedback_entry": {
+    "id": "F2",
+    "timestamp": "2026-05-10",
+    "source": "External review of draft manuscript",
+    "original_critique": "The manuscript confuses correlation with causation. The observed association between belief coherence and intelligence could be explained entirely by self-selection (smart people gravitate to coherent systems), not by coherence causing cognitive enhancement.",
+    "author_response": {
+      "clarification": "The original critique misidentified the manuscript's causal claim. The manuscript proposes a bidirectional model, not a unidirectional one.",
+      "bidirectional_model": {
+        "arrow_1_coherence_to_smarter": "Reduced PCC load from coherent beliefs → freed cognitive bandwidth → enhanced performance on complex reasoning tasks. Supported by dissonance experiments (Festinger, van Veen et al.) and testable via the longitudinal study's intervention arms.",
+        "arrow_2_smart_to_coherence": "Higher analytic thinking and pattern recognition → rejection of internally contradictory or empirically incompatible systems. Supported by meta-analyses (Zuckerman, Stagnaro) and genius distribution data (self-selection into pantheism, atheism, deism).",
+        "bidirectional_feedback_loop": "The two arrows reinforce each other. A small initial advantage in either direction amplifies over time, producing the observed magnitude of association at the tails (genius distribution). This model is more stable and more parsimonious than either unidirectional alternative."
+      },
+      "methodological_implication": "The longitudinal study (Chapter 19) is designed to test arrow_1 experimentally. Even if arrow_2 accounts for part of the observed correlation, arrow_1 remaining significant after controlling for baseline IQ would confirm causal efficacy of coherence practice. The covenant does not require arrow_2 to be zero; it requires arrow_1 to be non-zero.",
+      "manuscript_consistency_check": "The manuscript does not claim unidirectional causation from cross-sectional data. Chapter 6 (meta-analyses) reports correlation. Chapter 7 (genius distribution) notes 'suggestive only, not conclusive.' Chapter 8 (limitations) explicitly states 'correlational, not experimental.' The bidirectional model is implicit throughout. This feedback entry makes it explicit."
+    },
+    "revised_verdict": "Critique based on unidirectional misreading. Bidirectional model is stronger, not weaker. Manuscript is methodologically sound on this point. No revision required except this clarifying footnote.",
+    "one_sentence_takeaway": "The manuscript does not confuse correlation with causation; it correctly identifies a bidirectional feedback loop where coherence enhances cognition and enhanced cognition seeks coherence, with the longitudinal study designed to isolate the causal component of the former.",
+    "status": "resolved"
   }
 }
 ```
