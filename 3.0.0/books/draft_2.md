@@ -6102,3 +6102,112 @@ The following is prompt engineering used to compile research.
   }
 }
 ```
+
+```json
+
+{
+  "insight_id": "coherence_subtraction_vs_construction",
+  "author": "neuresthetic",
+  "timestamp": "2026-05-10",
+  "title": "Atheism vs Pantheism: Why Perfect Negative Coherence Underperforms Slightly Less Perfect Positive Coherence",
+  "core_claim": "Coherence is not unidimensional. The coherence rubric (Appendix B) measures only subtraction coherence (removing contradictions, falsehoods, noise) but does not measure construction coherence (affirmative generative schema). Atheism scores perfectly on subtraction but has zero construction. Pantheism scores near-perfect on subtraction AND provides construction. The genius per capita disparity (pantheism ~120/million, atheism 0.30/million) is explained by this missing dimension.",
+  "key_distinction": {
+    "subtraction_coherence": {
+      "definition": "Removal of logical contradictions, empirical falsehoods, and supernatural noise from a belief system",
+      "what_it_measures": "Absence of wrong notes",
+      "atheism_score": "50/50 (perfect)",
+      "pantheism_score": "49/50 (near-perfect)",
+      "limitation": "Does not distinguish blank screen from coherent map"
+    },
+    "construction_coherence": {
+      "definition": "Provision of affirmative, generative, compressible entity schema that reduces PCC load through positive framing",
+      "what_it_measures": "Presence of music, not just silence",
+      "atheism_score": "0/10 (no positive architecture)",
+      "pantheism_score": "10/10 (Deus sive Natura as base class)",
+      "benefits": [
+        "Affirmative entity schema (single substance)",
+        "Scale-crossing analogies (Entity Framework)",
+        "Built-in limiter prevents regress (XNOR-stable)",
+        "Boon provides upward structure after rejection"
+      ]
+    }
+  },
+  "the_limiter_and_boon_framework": {
+    "description": "Atheism has no limiter and no boon. Pantheism has both.",
+    "limiter": {
+      "definition": "Built-in mechanism that prevents infinite regress, elaboration, or protected exceptions",
+      "pantheism_limiter": "Single substance (Deus sive Natura) — all propositions must reduce to XNOR-stable invariants within this frame",
+      "atheism_limiter": "None — anything goes beyond 'no gods'"
+    },
+    "boon": {
+      "definition": "Affirmative generative structure that compresses entity maps and provides upward scaffolding",
+      "pantheism_boon": [
+        "Base Class Pattern (2×2 matrix)",
+        "Entity Framework (scale-crossing analogies)",
+        "Daily bilateral coordination as sign"
+      ],
+      "atheism_boon": "None — opposition only, no positive practice protocol"
+    }
+  },
+  "proposed_rubric_addition": {
+    "dimension_name": "Generative Compression / Affirmative Coherence / Boon",
+    "weight": "0-10 (added to existing 0-50 scale, creating 0-60, or reweighted to 0-50 with different distribution)",
+    "scoring_criteria": [
+      {
+        "criterion": "Provides affirmative entity schema",
+        "pantheism": 10,
+        "atheism": 0,
+        "description": "Does the system tell you what IS real (not just what IS NOT real)?"
+      },
+      {
+        "criterion": "Enables scale-crossing analogies",
+        "pantheism": 10,
+        "atheism": 0,
+        "description": "Does the system provide a template for mapping entities across levels (cell → organism → society → cosmos)?"
+      },
+      {
+        "criterion": "Includes built-in regress limiter",
+        "pantheism": 10,
+        "atheism": 0,
+        "description": "Does the system contain a structural stop that prevents infinite recursion or protected exceptions?"
+      },
+      {
+        "criterion": "Provides upward scaffolding after subtraction",
+        "pantheism": 10,
+        "atheism": 0,
+        "description": "After clearing falsehoods, does the system give you tools to build positive knowledge?"
+      }
+    ],
+    "pantheism_subtotal": 40,
+    "atheism_subtotal": 0,
+    "normalized_10_point_score": {
+      "pantheism": 10,
+      "atheism": 0
+    }
+  },
+  "revised_totals_comparison": {
+    "original_rubric_0_to_50": {
+      "pantheism": 49,
+      "atheism": 50
+    },
+    "revised_rubric_including_construction_0_to_60": {
+      "pantheism": 59,
+      "atheism": 50
+    },
+    "revised_rubric_reweighted_to_0_to_50": {
+      "pantheism": "~49 (construction added, subtraction adjusted)",
+      "atheism": "~42 (high subtraction, zero construction)"
+    },
+    "disparity_resolution": "Pantheism now correctly outperforms atheism in coherence score, matching genius per capita data"
+  },
+  "implications_for_longitudinal_study": {
+    "new_arm_suggestion": "Add pantheism-specific intervention (Deus sive Natura reflection + Entity Framework practice) as distinct from generic atheism/control arm",
+    "prediction": "Pantheism arm will show larger cognitive gains than atheism arm, despite similar subtraction coherence, due to construction coherence advantage",
+    "mechanism_hypothesis": "Affirmative entity schema reduces PCC load more effectively than absence-only schema because it provides compression rather than just deletion"
+  },
+  "one_sentence_summary": "Atheism achieves the silence; pantheism achieves the song. The rubric measured only the absence of wrong notes, not the presence of music.",
+  "status": "insight_proposed_not_yet_integrated",
+  "related_feedback_entry": "F2 (bidirectional model) — this insight extends that feedback by explaining why pantheism outperforms atheism within the bidirectional loop",
+  "tags": ["coherence", "atheism", "pantheism", "genius_distribution", "rubric", "missing_dimension", "limiter", "boon"]
+}
+```
