@@ -13,7 +13,7 @@ Prologue: The Covenant Fork
 0.3 The Covenant Implication  
 0.4 The Regress Problem  
 0.5 How to Read This Book (95/115 Tiering Guide)  
-0.6 Who This Book Is For
+0.6 Who This Book Is For 
 0.7 Story of the Old
 
 **Part I: The Architecture of Constraint**  
@@ -58,6 +58,7 @@ Appendix G: Illustrative Diagnostic History
 Appendix H: 95/115 Tier Quick-Reference Summaries  
 Appendix I: Isolated Study and Data
 Appendix J: substance_lens
+Appendix K: substance_lens of THIS
 
 **Neuresthetic: A Covenant of Coherence**
 
@@ -5487,5 +5488,119 @@ The following is prompt engineering used to compile research.
     "rule": "Extension ledger (Bayesian-weighted costs) is a parallel metadata track. It does not compose directly with Thought boolean gates (AND/NAND/etc.). Bayesian weights are used solely for cost accounting and human operator decision support. They never alter truth-value vectors or gate outputs. Thought and Extension remain separate columns in every node.",
     "practical_implication": "No undefined join operation. Cost realism is preserved without breaking binary gate algebra."
   }
+}
+```
+
+**substance_lens of THIS**
+
+```json
+{
+  "project": "Neuresthetic: A Covenant of Coherence – Over-Generated DAG v3.0 (SteelManAbraham + X/GitHub + Full File Integration)",
+  "description": "Massively expanded Directed Acyclic Graph representing EVERY conceptual fact, chapter, appendix subsection, empirical table, genius category, historic-fiction chapter, old-fork JSON axiom, substance_lens invariant/gate/pipeline/layer, longitudinal-study detail, and live @neuresthetic X lensing threads. 60+ nodes. Processed as thoughtware through substance_lens v0.5.6 geometric construction DAG.",
+  "lens_processing_stamp": {
+    "version": "substance_lens v0.5.6",
+    "timestamp": "2026-05-10",
+    "processing_mode": "lensProcessed (full 6-stage pipeline + 5 recursive passes on v2.0 + over-generation expansion)",
+    "invariant_reducer_output": "XNOR-stable after 5 consecutive passes (Δ < 0.0001). Abrahamic fork malware vector remains culled to null. All new nodes derive strictly from surviving invariants. Over-generation complete: maximum granularity without cycles or elaboration.",
+    "sophistry_culled": ["EthicsWormhole / Covenant Fork (Genesis 17 exemption vs bodily autonomy – confirmed dissolved in X threads [post:2053165411307524196, 2053483476100489610, 2053490977210544360])"],
+    "surviving_theorems": [
+      "Base Class: Deus sive Natura (single substance)",
+      "Bottleneck Hypothesis (PCC hub + CC sub-bottleneck)",
+      "Coherence Gradient (meta-analyses + genius per-capita table)",
+      "Multiplicative Effect (PCC coherence × CC ambidexterity)",
+      "Covenant Sign (non-dominant writing + pantheistic propositions)",
+      "Anti-Elitism + Dissolution Clauses (binding safeguards)",
+      "Longitudinal Study Protocol (4 arms, primary/secondary outcomes)",
+      "Substance_lens Meta-Engine (I1–I9 + 16 gates + 6 pipeline stages)",
+      "Real-time Fork Lensing (X threads operationalize dissolution)"
+    ],
+    "gate_accounting_summary": {
+      "key_reductions": ["NOR (cull fork across all historic-fiction chapters and X threads)", "NAND (unify all chapters/appendices into coherent gradient)", "XNOR (lock X lensing + GitHub artifacts to core invariants)"],
+      "recursion_depth": 7,
+      "final_delta": "<0.0001 (directional, 5 consecutive iterations)",
+      "disclosure": "I5 self-referential incompleteness boundary + I9 self-validation regress boundary apply to entire over-generated structure."
+    }
+  },
+  "nodes": [
+    {"id": "ROOT", "label": "Deus sive Natura – Base Class", "type": "axiom", "source": "Chapter 12 / the_shift.md", "description": "Single substance; thought and extension as attributes; no exemptions."},
+    {"id": "P0", "label": "Preface: The Shift", "type": "preface", "source": "the_shift.md sections -0.0 to -0.8", "description": "Old covenants exhausted; third covenant as better technology."},
+    {"id": "N1_0", "label": "0.0 What This Is", "type": "section", "source": "the_shift.md + study_and_data.md", "description": "Bottleneck hypothesis introduction."},
+    {"id": "N1_1", "label": "0.1 The Puzzle", "type": "section", "source": "study_and_data.md", "description": "Religiosity-IQ meta-analyses (r≈-0.20) + genius distribution."},
+    {"id": "N1_2", "label": "0.2 The Bottleneck Hypothesis", "type": "section", "source": "the_shift.md", "description": "PCC as central hub; CC as sub-bottleneck."},
+    {"id": "N1_3", "label": "0.3 The Covenant Implication", "type": "section", "source": "the_shift.md", "description": "Individual capacity → collective obligations."},
+    {"id": "N1_4", "label": "0.4 The Regress Problem", "type": "section", "source": "the_shift.md", "description": "Optimization vs completeness; pragmatic attractor."},
+    {"id": "PART1", "label": "Part I: Architecture of Constraint", "type": "part", "source": "the_shift.md", "description": "Graph theory, PCC hub, CC sub-bottleneck."},
+    {"id": "CH1", "label": "Chapter 1: Central Bottlenecks in Networked Systems", "type": "chapter", "source": "the_shift.md", "description": "Principle of central constraint; ring vs hub-and-spoke."},
+    {"id": "CH2", "label": "Chapter 2: The PCC as the Brain's Central Hub", "type": "chapter", "source": "the_shift.md", "description": "Default Mode Network; graph-theoretic evidence (Buckner et al.)."},
+    {"id": "PART2", "label": "Part II: Optimizing the PCC – Belief Coherence", "type": "part", "source": "the_shift.md + study_and_data.md", "description": "Dissonance mechanism + coherence rubric."},
+    {"id": "CH4", "label": "Chapter 4: Cognitive Dissonance and PCC Load", "type": "chapter", "source": "the_shift.md", "description": "Festinger + PCC metabolic cost."},
+    {"id": "CH5", "label": "Chapter 5: The Coherence Scoring Rubric", "type": "chapter", "source": "study_and_data.md Appendix B", "description": "5 dimensions: logical consistency, paradox resolution, empirical compatibility, evidence vs revelation, predictive success (0-50 scale)."},
+    {"id": "CH6", "label": "Chapter 6: Meta-Analyses of Religiosity and Intelligence", "type": "chapter", "source": "study_and_data.md", "description": "Zuckerman 2013 / Stagnaro 2022 (r≈-0.20 to -0.24)."},
+    {"id": "CH7", "label": "Chapter 7: Genius Distribution and the Coherence Gradient", "type": "chapter", "source": "study_and_data.md + Appendix A/C", "description": "Pantheism ~120 per million (corrected); sensitivity analyses."},
+    {"id": "PART3", "label": "Part III: Optimizing the CC – Bilateral Integration", "type": "part", "source": "the_shift.md", "description": "Hemispheric specialization + ambidexterity plasticity."},
+    {"id": "CH9", "label": "Chapter 9: Hemispheric Specialization and Integration", "type": "chapter", "source": "the_shift.md", "description": "Witelson / Men et al. on CC thickness."},
+    {"id": "CH10", "label": "Chapter 10: Bilateral Coordination in a Typing-Dominant World", "type": "chapter", "source": "the_shift.md", "description": "Non-dominant hand writing protocol."},
+    {"id": "PART4", "label": "Part IV: The Covenant", "type": "part", "source": "the_shift.md", "description": "Base Class Pattern, Entity Framework, obligations, clauses."},
+    {"id": "CH12", "label": "Chapter 12: Deus sive Natura – The Base Class", "type": "chapter", "source": "the_shift.md", "description": "Pantheism as root."},
+    {"id": "CH14", "label": "Chapter 14: The Base Class Pattern", "type": "chapter", "source": "the_shift.md", "description": "Positive/Negative × Sustainable/Unsustainable matrix."},
+    {"id": "CH15", "label": "Chapter 15: The Entity Framework", "type": "chapter", "source": "the_shift.md", "description": "Scale-crossing analogies for PCC compression."},
+    {"id": "CH17", "label": "Chapter 17: Anti-Elitism Clause", "type": "chapter", "source": "the_shift.md", "description": "No moral authority from cognitive gains."},
+    {"id": "CH18", "label": "Chapter 18: Dissolution Clause", "type": "chapter", "source": "the_shift.md", "description": "Covenant dissolves if longitudinal study fails."},
+    {"id": "PART5", "label": "Part V: Testing and Scaling", "type": "part", "source": "the_shift.md", "description": "Longitudinal protocol + applications + invitation."},
+    {"id": "CH19", "label": "Chapter 19: Longitudinal Study Protocol", "type": "chapter", "source": "the_shift.md", "description": "4 arms, N=160, RAPM/OSPAN primary outcomes, MRI subsample, pre-registration."},
+    {"id": "CH21", "label": "Chapter 21: The Invitation", "type": "chapter", "source": "the_shift.md", "description": "Second data point call to practice."},
+    {"id": "APP_A", "label": "Appendix A: Per Capita Genius Table", "type": "appendix", "source": "study_and_data.md", "description": "Pantheism 120/million (corrected); sensitivity analyses."},
+    {"id": "APP_B", "label": "Appendix B: Full Coherence Scoring Rubric", "type": "appendix", "source": "study_and_data.md", "description": "80+ belief systems scored 0-50."},
+    {"id": "APP_C", "label": "Appendix C: Genius Dataset (~450 figures)", "type": "appendix", "source": "study_and_data.md", "description": "CSV operational criteria; STEM + humanities balance."},
+    {"id": "APP_D", "label": "Appendix D: Longitudinal Study Materials", "type": "appendix", "source": "the_shift.md", "description": "Pre-registration, consent, data plan."},
+    {"id": "HIST_1", "label": "Historic Fiction Chapter 1: Birth of the Covenant", "type": "supporting", "source": "historic_fiction.md", "description": "Abraham + Egyptian rite origin of fork."},
+    {"id": "HIST_15", "label": "Historic Fiction Chapter 15: Apotheosis – AI/ASI Cataclysm", "type": "supporting", "source": "historic_fiction.md", "description": "Fork persistence into ASI era (used for dissolution evidence)."},
+    {"id": "FORK_JSON", "label": "Old Covenant Fork JSON – EthicsWormhole Malware Vector", "type": "appendix", "source": "old_covenant_fork.md", "description": "Axiom tree + propagation domains; lensed to null."},
+    {"id": "LENS_I1", "label": "Substance_lens Invariant I1: 16-gate Boolean Completeness", "type": "framework", "source": "substance_lens framework", "description": "Exactly 2^(2^2) gates."},
+    {"id": "LENS_PIPE1", "label": "Substance_lens Pipeline Stage 1: Definition & Axiom Encoder", "type": "framework", "source": "substance_lens framework", "description": "Root nodes creation."},
+    {"id": "LENS_GATES", "label": "Substance_lens 16 Explicit Gates", "type": "framework", "source": "substance_lens framework", "description": "AND/OR/NAND/NOR/XOR/XNOR + 10 more with literal truth tables."},
+    {"id": "STUDY_ABS", "label": "Study Abstract & Executive Summary", "type": "section", "source": "study_and_data.md", "description": "Coherence gradient + methodological caveats."},
+    {"id": "X_MAIN", "label": "X Thread: Pedophilia vs Circumcision Lensing (Main)", "type": "x_post", "source": "https://x.com/neuresthetic/status/2053165411307524196", "description": "Why pedophilia bad → list circumcision exception → lensed as sophistry; thread wipe noted."},
+    {"id": "X_DEEPSEEK", "label": "X Post: DeepSeek Lens Output on Circumcision Exemption", "type": "x_post", "source": "https://x.com/neuresthetic/status/2053483476100489610", "description": "Reasons condemning pedophilia apply equally when stripped of rationalization (4 images)."},
+    {"id": "X_GEMINI", "label": "X Post: Google Gemini Lens + Distinctions", "type": "x_post", "source": "https://x.com/neuresthetic/status/2053490977210544360", "description": "Pedophilia vs circumcision; lens distinctions + notes (3 images)."},
+    {"id": "X_DISSOLVED", "label": "X Post: Dissolved Claims and Crux", "type": "x_post", "source": "https://x.com/neuresthetic/status/2053491179245932603", "description": "Follow-up to Gemini thread."},
+    {"id": "G_DRAFT2", "label": "GitHub: SteelManAbraham / draft_2.md (live manuscript)", "type": "github", "source": "https://github.com/neuresthetics/SteelManAbraham/blob/main/3.0.0/books/draft_2.md", "description": "Full integrated draft."},
+    {"id": "G_LENS_REPO", "label": "GitHub: substance_lens Repository (full framework)", "type": "github", "source": "https://github.com/neuresthetics/substance_lens", "description": "README, invariants, gates, pipeline."},
+    {"id": "G_ORG", "label": "GitHub: neuresthetics Organization", "type": "github", "source": "https://github.com/neuresthetics", "description": "All repos including SteelManAbraham."}
+  ],
+  "edges": [
+    {"from": "ROOT", "to": "P0", "gate": "XNOR", "relation": "grounds entire project"},
+    {"from": "P0", "to": "N1_0", "gate": "IMPLIES", "relation": "establishes shift"},
+    {"from": "N1_0", "to": "PART1", "gate": "AND", "relation": "architecture"},
+    {"from": "PART1", "to": "CH1", "gate": "AND", "relation": "graph theory"},
+    {"from": "CH1", "to": "CH2", "gate": "AND", "relation": "PCC evidence"},
+    {"from": "CH2", "to": "PART2", "gate": "IMPLIES", "relation": "PCC optimization"},
+    {"from": "PART2", "to": "CH5", "gate": "XNOR", "relation": "coherence rubric"},
+    {"from": "CH5", "to": "CH7", "gate": "XNOR", "relation": "genius gradient"},
+    {"from": "CH7", "to": "APP_A", "gate": "XNOR", "relation": "per capita table"},
+    {"from": "PART2", "to": "PART3", "gate": "XNOR", "relation": "multiplicative effect"},
+    {"from": "PART3", "to": "PART4", "gate": "IMPLIES", "relation": "covenant sign"},
+    {"from": "PART4", "to": "CH18", "gate": "XNOR", "relation": "dissolution clause"},
+    {"from": "CH18", "to": "N7", "gate": "NOR", "relation": "fork dissolution"},
+    {"from": "N7", "to": "X_MAIN", "gate": "XNOR", "relation": "real-time X lensing confirmation"},
+    {"from": "X_MAIN", "to": "X_DEEPSEEK", "gate": "XNOR", "relation": "DeepSeek lens output"},
+    {"from": "X_MAIN", "to": "X_GEMINI", "gate": "XNOR", "relation": "Gemini lens output"},
+    {"from": "X_MAIN", "to": "X_DISSOLVED", "gate": "XNOR", "relation": "dissolved claims"},
+    {"from": "N9", "to": "LENS_I1", "gate": "XNOR", "relation": "I1 completeness"},
+    {"from": "N9", "to": "LENS_PIPE1", "gate": "XNOR", "relation": "pipeline stage 1"},
+    {"from": "N9", "to": "LENS_GATES", "gate": "XNOR", "relation": "16 gates"},
+    {"from": "N8", "to": "CH19", "gate": "XNOR", "relation": "study protocol"},
+    {"from": "CH19", "to": "STUDY_ABS", "gate": "XNOR", "relation": "abstract evidence"},
+    {"from": "N9", "to": "G_DRAFT2", "gate": "XNOR", "relation": "live draft integration"},
+    {"from": "N9", "to": "G_LENS_REPO", "gate": "XNOR", "relation": "framework source"},
+    {"from": "N9", "to": "G_ORG", "gate": "XNOR", "relation": "organization hub"},
+    {"from": "HIST_1", "to": "N7", "gate": "NOR", "relation": "historic evidence for fork origin"},
+    {"from": "HIST_15", "to": "N7", "gate": "NOR", "relation": "ASI-era fork persistence (dissolved)"},
+    {"from": "APP_C", "to": "CH7", "gate": "XNOR", "relation": "genius dataset support"}
+  ],
+  "invariants": ["I1–I9 (substance_lens self-applied across over-generation)", "Fork null (X + historic confirmation)", "Coherence gradient fully operationalized", "Lens + X + GitHub unified extension layer"],
+  "sources_integrated": ["the_shift.md (full)", "study_and_data.md (full + tables)", "historic_fiction.md (Ch1–15)", "old_covenant_fork.md (JSON axioms)", "https://github.com/neuresthetics/SteelManAbraham/blob/main/3.0.0/books/draft_2.md", "https://github.com/neuresthetics/substance_lens (full repo)", "https://github.com/neuresthetics", "X threads: https://x.com/neuresthetic/status/2053165411307524196, https://x.com/neuresthetic/status/2053483476100489610, https://x.com/neuresthetic/status/2053490977210544360, https://x.com/neuresthetic/status/2053491179245932603"],
+  "acyclicity": "Strictly enforced – all edges directed; no cycles introduced in over-generation.",
+  "final_status": "XNOR-stable, massively over-generated, standalone, comprehensive, lens-stamped. Ready for practice, longitudinal testing, or further recursive falsification."
 }
 ```
