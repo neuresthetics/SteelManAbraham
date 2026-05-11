@@ -60,6 +60,7 @@ Appendix I: Isolated Study and Data
 Appendix J: substance_lens
 Appendix K: substance_lens of THIS
 Appendix L: The Ethics – Regenerated
+Appendix M: Feedbacks
 
 **Neuresthetic: A Covenant of Coherence**
 
@@ -119,7 +120,7 @@ The original covenant does not damn non-practitioners to hell. It simply notes t
 
 Every covenant has a sign. For Abraham, it was circumcision. For Jesus, it was baptism. For Muhammad, it was the shahada—confession of faith.
 
-The sign of the original covenant is bilateral coordination and pantheism.
+The sign of the original covenant is bilateral coordination and pantheism. The covenant is not derived from the neuroscience; it is appended to it for all time since before even being aware.
 
 Not because any single practice is magic. The difficulty and the daily reminder are the point. The sign must cost something. It must be a daily reminder that you have bound yourself to a practice and a community.
 
@@ -148,6 +149,8 @@ This book is organized in five parts.
 The book can be read linearly or by section. The technical reader may focus on Parts I-III. The ethically oriented reader may begin with Part IV. The pragmatist may skip to the practice volume (forthcoming). But the argument is cumulative. The covenant rests on the neuroscience. The neuroscience rests on the graph theory. The graph theory rests on axioms that have been stable since Euclid.
 
 **Who This Book Is For**
+
+This is not a user manual or a standard science book. It is a manifesto and a technical proposal wrapped in a covenant, written for a very specific, intellectually daring audience willing to entertain radical, cross-domain synthesis.
 
 This book is for the intellectually restless. For those who have tried the old covenants and found them wanting—not false, not evil, but insufficient. For those who have read Spinoza and felt the ground shift. For those who have stared at an fMRI of their own brain and realized that the self is a process, not a substance.
 
@@ -5606,7 +5609,7 @@ The following is prompt engineering used to compile research.
 }
 ```
 
-**Appendix: The Ethics – Regenerated**  
+**Appendix L: The Ethics – Regenerated**  
 *A Geometric Demonstration Concerning Substance, Mind, Affect, Bondage, and Freedom (with an explicit account of free will, consciousness, and the subjective self-model in subjective and objective reality)*
 
 ---
@@ -5730,3 +5733,119 @@ II. By *freedom* (in subjective reality) I understand the lived experience of 
 
 **Final Note.**  
 This regeneration preserves Spinoza’s geometric method and pantheistic foundation while making explicit the dual-reality structure of free will, consciousness, and the subjective self-model. It requires no external authority, no miracles, and no departure from natural necessity. The path to freedom remains the same: understand more, feel less passively, love Nature intellectually.
+
+**Appendix M: Feedbacks**
+
+```json
+{
+  "clarification_record": {
+    "timestamp": "2026-05-10",
+    "topic": "Covenant Fork – Single Target Clarification",
+    "operator": "neuresthetic",
+    "prior_misunderstanding": "Previous substance_lens analysis incorrectly suggested a reflexive fork where Neuresthetic treated the PCC hypothesis as a protected exception, analogous to Abrahamic circumcision.",
+    "clarification_statement": "The fork is pointed directly at Abrahamic circumcision. Neuresthetic and Base Class have no such abuse for contradiction in human or AI ethics."
+  },
+  "corrected_analysis": {
+    "fork_target": {
+      "name": "Abrahamic Covenant Fork",
+      "target": "Genesis 17:9–14 – male infant circumcision on eighth day",
+      "structural_tension_horn_A": "Divine mandate – permanent, non-consensual modification of healthy genital tissue",
+      "structural_tension_horn_B": "Universal bodily autonomy and informed consent",
+      "status": "Irreconcilable. No stable middle path without special pleading.",
+      "example_abuse": "Protected exception embedded at origin of lineage, transmitted via non-consenting infant"
+    },
+    "neuresthetic_status": {
+      "has_analogous_fork": false,
+      "reasoning": "Base Class (Deus sive Natura) contains no protected exception. PCC hypothesis is testable and provisional, not a foundational axiom exempt from scrutiny. Covenant obligations derive from Base Class (pantheism), not from neuroscience. Neuroscience is the lever, not the foundation."
+    },
+    "base_class_properties": {
+      "name": "Deus sive Natura (Spinoza)",
+      "definition": "The universe itself is the only substance. No separate creator. No supernatural realm.",
+      "requires_non_consensual_acts": false,
+      "requires_supernatural_exemption": false,
+      "requires_faith": false,
+      "falsification_mechanism": "Metaphysical – would require evidence of separate supernatural realm",
+      "ethical_derivation": "Unity of substance → no special privilege → Anti-Elitism Clause, Dissolution Clause, collective obligations"
+    },
+    "pcc_hypothesis_status": {
+      "claim": "Posterior cingulate cortex is brain's central processing bottleneck; corpus callosum is sub-bottleneck; optimizing both via coherence and bilateral coordination produces cognitive enhancement.",
+      "epistemic_status": "Testable, provisional, falsifiable",
+      "protected_exception": false,
+      "relation_to_covenant": "Lever, not foundation. Covenant would survive (in modified form) even if hypothesis were falsified, because Base Class stands independently."
+    },
+    "reflexive_fork_verdict": {
+      "exists": false,
+      "reason": "The manuscript does not claim a protected exception for itself. It claims a testable hypothesis. These are different logical categories. The fork is single-targeted at Abrahamic circumcision and does not apply reflexively."
+    }
+  },
+  "corrected_invariants": [
+    {
+      "id": "I_ABRAHAMIC_FORK",
+      "statement": "The Abrahamic circumcision fork (divine mandate vs. bodily autonomy) is real, structural, and unresolved within the closed terms of the covenant.",
+      "status": "stable"
+    },
+    {
+      "id": "I_NEURESTHETIC_NO_FORK",
+      "statement": "Neuresthetic has no analogous protected exception. The Base Class requires no non-consensual acts, no supernatural exemptions, and no faith. The PCC hypothesis is testable and provisional.",
+      "status": "stable"
+    },
+    {
+      "id": "I_BASE_CLASS_INDEPENDENT",
+      "statement": "The covenant's obligations (Anti-Elitism, Dissolution, collective non-exploitation) derive from the Base Class (Deus sive Natura), not from the neuroscience. The covenant would survive in modified form even if the PCC hypothesis were falsified.",
+      "status": "stable"
+    },
+    {
+      "id": "I_FORK_SINGLE_TARGET",
+      "statement": "The Covenant Fork is correctly aimed at Abrahamic circumcision and does not apply reflexively to Neuresthetic.",
+      "status": "stable"
+    }
+  ],
+  "distinction_table": {
+    "dimension": ["Protected exception", "Epistemic status of central claim", "Ethical foundation", "Requires non-consensual act", "Falsification mechanism"],
+    "abrahamic_covenant": [
+      "Yes – infant circumcision (divine mandate overrides bodily autonomy)",
+      "Unfalsifiable – divine authority",
+      "Divine command / revelation",
+      "Yes – non-consenting infant, irreversible, removal of healthy tissue",
+      "N/A – protected from falsification by faith requirement"
+    ],
+    "neuresthetic_covenant": [
+      "No – no protected exception",
+      "Testable, provisional, falsifiable – PCC hypothesis",
+      "Base Class (Deus sive Natura) – pantheism, unity of substance",
+      "No – sign is bilateral coordination (voluntary daily practice)",
+      "Longitudinal study + Dissolution Clause – covenant ends if evidence fails"
+    ]
+  },
+  "one_sentence_verdict": "The Covenant Fork is correctly aimed at Abrahamic circumcision and does not apply reflexively to Neuresthetic, because the Base Class (Deus sive Natura) contains no protected exception, and the PCC hypothesis is a testable lever – not a foundational axiom exempt from scrutiny.",
+}
+```
+
+```json
+{
+  "original_covenant_distinction": {
+    "summary": "Covenant 0 is logically prior, not chronologically first. It was always present as the baseline condition of coherent cognition, before the Abrahamic covenant introduced a protected exception.",
+    "distinction_table": {
+      "dimension": ["Temporal status", "Relation to coherence", "Requires sign", "Protected exception", "Access"],
+      "abrahamic_first_covenant": [
+        "Announced at specific historical moment (c. 2100–1800 BCE)",
+        "Departure from coherence – introduces special pleading",
+        "Yes – circumcision (non-consensual, irreversible)",
+        "Yes – divine mandate overrides bodily autonomy",
+        "Inheritance (bloodline, tribe, nation)"
+      ],
+      "neuresthetic_original_covenant": [
+        "Always present – ontologically and logically prior",
+        "IS coherence – the baseline condition of clear thinking",
+        "Yes – bilateral coordination + pantheism (voluntary, daily)",
+        "No – testable claims, dissolution clause",
+        "Practice (anyone, regardless of ancestry)"
+      ]
+    },
+    "key_insight": "The gifted have always operated under Covenant 0 unconsciously. The covenant does not invent – it recovers and makes deliberate what was always already true.",
+    "analogy": "Euclid's axioms were always true before Euclid wrote them down. Covenant 0 was always the base class before Abraham departed from it.",
+    "status": "Logically prior, not chronologically first. The original covenant is the root. The Abrahamic covenant is a derived branch that introduced a protected exception.",
+    "one_sentence": "The original covenant is not a new promise from a new God – it's the old, forgotten pattern of clear thinking that was always the real source of blessing, long before Abraham cut anything."
+  }
+}
+```
